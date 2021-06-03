@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of Latin and English books in quires, to be sold by auction in numbers to the booksellers of London and Westminster only. On Monday the seventh of this instant September, 1691. At the sign of the Bear in Ave-Mary-Lane, near Ludgate-Street, at three of the clock in the afternoon, and so to continue daily till all the books are sold. / By Benj. Walford.</title>
+            <author>Walford, Benjamin, d. ca. 1710.</author>
+         </titleStmt>
+         <extent>Approx. 109KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18776</idno><idno type="EEBO-CITATION">99888471</idno>
+  <idno type="VID">202039</idno>
+  <idno type="EEBO-PROQUEST">2240882627</idno>
+  
+            <idno type="STC">Wing C1345</idno>
+            <idno type="STC">Interim Tract Supplement Guide 821.i.9[16]</idno>
+            <idno type="STC">ESTC R230312</idno>
+            <idno type="PROQUEST">ocm99888471</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888471e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202039)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D1:2[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of Latin and English books in quires, to be sold by auction in numbers to the booksellers of London and Westminster only. On Monday the seventh of this instant September, 1691. At the sign of the Bear in Ave-Mary-Lane, near Ludgate-Street, at three of the clock in the afternoon, and so to continue daily till all the books are sold. / By Benj. Walford.</title>
+                  <author>Walford, Benjamin, d. ca. 1710.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCXCI. [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Book auctions --  England --  Early works to 1800.</term>
+               <term type="topical_term">Catalogs, booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:202039:1"/>
+            <p>A CATALOGUE OF <hi>Latin and English</hi> BOOKS In QUIRES, to be Sold by AUCTION In <hi>Numbers</hi> To the <hi>Book sellers</hi> of <hi>London</hi> and <hi>Westminster</hi> only.</p>
+            <p>On <hi>Monday</hi> the Seventh of this Instant <hi>September,</hi> 1691.</p>
+            <p>At the Sign of the <hi>Bear</hi> in <hi>Ave-Mary-Lane,</hi> near <hi>Ludgate-Street,</hi> at Three of the Clock in the Afternoon, and so to continue daily till all the BOOKS are Sold.</p>
+            <p>
+               <hi>By</hi> BENJ. WALFORD.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCXCI.</p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:202039:2"/>
+            <head>CONDITIONS OF This present Sale of <hi>BOOKS</hi> in <hi>Quires</hi> to be Sold by <hi>AƲCTION,</hi> at the <hi>Bear</hi> in <hi>Ave-Mary-Lane,</hi> on <hi>Monday</hi> the Seventh of <hi>September,</hi> 1691.</head>
+            <p>THat he who bids most is the Buyer, <hi>&amp;c.</hi>
+            </p>
+            <p>That the Number of each Book proposed to be Sold, shall be mention'd before they are set up.</p>
+            <p>That it shall be at the Liberty of the Exposer to nominate how many of every Book shall be sold at once.</p>
+            <p>That if any Book so sold, upon Collating before Delivery, be found to be Imperfect, an Abatement shall be made proportionably, or the Books returned.</p>
+            <p>That the Books shall be ready to be delivered within Six Days af<g ref="char:EOLhyphen"/>ter the Sale is ended to the respective Buyers, who are obliged to collate their Books, and take the same away, giving Security for the Pay<g ref="char:EOLhyphen"/>ment of the Money to <hi>Benjamin Walford,</hi> for the Ʋse of the Credi<g ref="char:EOLhyphen"/>tors of Mr. <hi>Adiel Mill,</hi> upon the Terms following:</p>
+            <p>To such as shall buy to the Value of <hi>25 l.</hi> shall be allowed Three Months Credit for the payment thereof.</p>
+            <p>To such as shall buy to the Value of <hi>50 l.</hi> shall be allowed Six Months Credit for the payment of the same.</p>
+            <p>Any Person exceeding the first Sum of <hi>50 l.</hi> shall be allowed Three Months Credit for the payment of each <hi>50 l.</hi> he shall buy more, not exceeding the Sum of Three Hundred Pounds.</p>
+            <p>Any Person making prompt payment, shall have half a Years Re-bate at the rate of Six Pounds <hi>per Cent.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="auction_catalogue__books">
+            <pb n="1" facs="tcp:202039:2"/>
+            <head>
+               <hi>A CATALOGUE OF Latin, English</hi> and <hi>French</hi> Books in Quires, to be Sold by Auction in Numbers, to the Booksellers of <hi>London</hi> and <hi>Westminster</hi> only.</head>
+            <list>
+               <item>1 ALmahide, or the Captive-Queen, fol. <hi>Lond.</hi> 1677</item>
+               <item>2 Augustini operum, Tom. 6. per Monach. Bened. fol. <hi>Par.</hi>
+               </item>
+               <item>3 Art of Wheedling, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>4 Ars Cogitandi, sive Logica, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1687</item>
+               <item>5 Altingii Theologia Historica, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>6 Acta Benedictinorum, Sec. 1, 3, 4, 5. 6 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>7 Aristotelis Opera Gr. Lat. per G. Du-Val. Tom. 1, 2, 3. <hi>Par.</hi>
+               </item>
+               <item>8 Andrews Manual of Devotions, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>9 Andronici Rhodii Paraphras. Ethicor. Nichom. Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1679</item>
+               <item>10 Agathias de Reb. Justiniani Gr. Lat. fol. <hi>E Typogr. Regia Par.</hi>
+               </item>
+               <item>11 Aerodii Rerum Judicatar. Pandectae, fol. <hi>Gen.</hi> 1677</item>
+               <item>12 Ambianat. in Pauli Epistol. Comment. 3 Vol. fol. <hi>Par.</hi> 1664</item>
+               <item>13 Aesop's Fables with Cuts, by Ogilby, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>14 Apocrypha, Graecè, 12<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi>
+               </item>
+               <item>15 Apologia pro Conscientiis infirmis, 8<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1682</item>
+               <item>16 Apollonii Pergaei Conica cum Comment. Richardi, fol. <hi>Ant.</hi> 1655</item>
+               <item>17 Acherii Spicilegium, 12 Vol. (Vol. 3. desiderat.) 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1665</item>
+               <item>18 Aelfredi Vita, per Spelmannum <hi>Oxon.</hi> 1678</item>
+               <item>19 —Idem (charta majori) <hi>ibid.</hi>
+               </item>
+               <item>20 Appianus Alexandrinus Gr. Lat. 2 Vol. 8<seg rend="sup">o</seg> Variorum <hi>Amst.</hi> 1670</item>
+               <item>21 Alexander ab Alexandro Variorum, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1673</item>
+               <item>22 Amyraut traite des Religions, 4<seg rend="sup">o</seg>
+                  <hi>Saumur.</hi> 1652</item>
+               <item>23 Antiquite des Tems, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1687</item>
+               <pb n="2" facs="tcp:202039:3"/>
+               <item>24 Almahide ou l' Esclave Reyne, 8<seg rend="sup">o</seg>, en 8 Vol. <hi>Par.</hi>
+               </item>
+               <item>25 Abbrege del' Histoire de France, par Mezeray, 6 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1673</item>
+               <item>26 Arrian des guerres d' Alexandre, par D' Ablancourt, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1664</item>
+               <item>27 Augustinses Confessions, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1665</item>
+               <item>28 Amours de Lauzun &amp; Mazarin, 12<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1676</item>
+               <item>29 Art of Divine Converse, by Dr. Abercromby, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>30 Antiquitates Universitatis Oxoniensis, fol. <hi>E Theat. Sheld.</hi> 1675</item>
+               <item>31 Apthonii Sophistae Progymnasmata, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>32 Andron. Rhodii Ethicorum Nichomachaeor. Paraph. G. L. 8<seg rend="sup">o</seg>
+                  <hi>Cant.</hi> 1679</item>
+               <item>33 Aesopi &amp; aliorum Fabulae Latinè, 8<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1554</item>
+               <item>34 Absolon &amp; Achitophel, Latino Carmine, 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1682</item>
+               <item>35 Accomplisht Woman, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>36 Academy of Complements (new), in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>37 S. Agnes Life and Martyrdom, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>38 Aylmer (Jo.) Musae Sacrae, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1652</item>
+               <item>39 Acta Eruditorum Lipsiensium, 4<seg rend="sup">o</seg>, Ann. 1682 <hi>Lipsiae</hi> 1682</item>
+               <item>40 —Eadem, 4<seg rend="sup">o</seg>, Ann. 1684 <hi>ibid.</hi> 1684</item>
+               <item>41 —Eadem, 4<seg rend="sup">o</seg>, Ann. 1685 <hi>ibid.</hi> 1685</item>
+               <item>42 Abbatius (Angel.) de admirabili Viperae Natura, 12<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1660</item>
+               <item>43 Alleyn (R.) of Godly Fear, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>44 Agrippa (Hen. Corn.) de Vanitate Scientiarum, 12<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1662</item>
+               <item>45 Ars cogitandi, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>46 Aristaeneti Epistolae Graec. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1639</item>
+               <item>47 Almahide, a Romance out of French, fol. <hi>Lond.</hi> 1674</item>
+               <item>48 Animadversions on the ancient Gr. &amp; Lat. Historians, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>49 Augustin (Anton.) de emendatione Gratiani, 8<seg rend="sup">o</seg> 1676</item>
+               <item>50 Antiquae Historiae Synopsis, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1660</item>
+               <item>51 Anastasius Sinaita in Hexameron, G. L. in 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>52 Anacreon in English, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1683</item>
+               <item>53 Alteferra (Ant.) in Anastasium de Vitis Pontific. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1681</item>
+               <item>54 — in Libros Clementinarum, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1680</item>
+               <item>55 Archimedis Arenarius, &amp;c. cum Notis Jo. Wallis, G. L. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1676</item>
+               <item>56 —Idem, (charta majori) <hi>ibid.</hi>
+               </item>
+               <item>57 Agrippa (H. Corn.) of the Vanity of Sciences, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>58 Atwel's Faithful Surveyor, 4<seg rend="sup">o</seg>
+                  <hi>Cambr.</hi> 1662</item>
+               <item>59 Auctuarium Biblioth. Theologic. G. Voetii, 8<seg rend="sup">o</seg>
+                  <hi>Groning.</hi> 1652</item>
+               <item>60 Atlas (English) Vol. I containing a Description of the Places next the North Pole; as also of Muscovy, Poland, Sweden, Denmark, and their several Dependances, Printed on a large Imperial Paper at the Theatre at <hi>Oxford</hi> 1680</item>
+               <pb n="3" facs="tcp:202039:3"/>
+               <item>61 —Vol. II. Containing the Description of part of the Em<g ref="char:EOLhyphen"/>pire of Germany, viz. Upper and Lower Saxony, the Duke<g ref="char:EOLhyphen"/>doms of Mecklenburgh, Bremen, Magdeburgh, <hi>&amp;c.</hi> the Marquisates of Brandenburgh and Misnia, with the Terri<g ref="char:EOLhyphen"/>tories adjoyning: The Palatinate of the Rhine, and King<g ref="char:EOLhyphen"/>dom of Bohemia <hi>Oxford Theatre</hi> 1681</item>
+               <item>62 —Vol. III. Containing the Description of the remaining part of the Empire of Germany, viz. Schwaben, Palatinat of Bavaria, Kingdom of Hungary, Principality of Tran<g ref="char:EOLhyphen"/>sylvania, Circle of Westphalia, with the Neighbouring Provinces, <hi>&amp;c. Oxford Theatre</hi> 1683</item>
+               <item>63 —Vol. IV. Containing the Description of the Seven<g ref="char:EOLhyphen"/>teen Provinces of the Low-Countries, or Netherlands, <hi>Oxford Theatre</hi> 1682</item>
+               <item>64 Ashwell de Socino &amp; Socinianismo, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1680</item>
+               <item>65 —on the Apostles Creed, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1653</item>
+               <item>66 —of the Gesture at receiving of the Eucharist, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1663</item>
+               <item>67 Animadvers. on Greek and Latin Historians, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1678</item>
+               <item>68 —on Baker's Chronicle, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1672</item>
+               <item>69 Aylmer Musae Sacrae Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1652</item>
+               <item>70 Accomplish'd Ladies Delight, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>71 Amesius de Conscientia, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1659</item>
+               <item>72 Alcinoi Introduct. in Platonic. Philosoph. Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1667</item>
+            </list>
+            <list>
+               <item>73 Brown's Religio Medici, fol. <hi>Lond.</hi> 1685</item>
+               <item>74 —His Works, fol. <hi>ibid.</hi> 1686</item>
+               <item>75 Binchii Mellificium Theologicum, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>76 Bythneri Analysis Psalmorum, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>77 Biblia Polyglotta, per Br. Walton, 6 Vol. fol. <hi>Lond.</hi>
+               </item>
+               <item>78 Bacon's Remains, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>79 Barbett's Practice of Physick, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>80 —Chyrurgery, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>81 Bonalii Theologia Moralis, 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Tolos.</hi> 1673</item>
+               <item>82 Bronchorst de Regulis Juris, 12<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1677</item>
+               <item>83 Biblia Maxima, 19 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>84 Bollandi Acta Sanctorum Maii Tom. 1, 2, 3, 4. fol. <hi>Ant.</hi>
+               </item>
+               <item>85 Buchanani Psalmor. Paraphrasis Metrica, 24<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1621</item>
+               <item>86 Boyl of Cold, 4<seg rend="sup">o</seg> 1683</item>
+               <item>87 Bartholini Anatomia, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1679</item>
+               <item>88 —de Ovariis Mulierum, 8<seg rend="sup">o</seg>
+                  <hi>Norimb.</hi> 1679</item>
+               <item>89 Boileau de adoratione Eucharistiae, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1685</item>
+               <pb n="4" facs="tcp:202039:4"/>
+               <item>90 Buschof of the Gout, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>91 Buxtorf's Introduct. to the Hebrew Tongue, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1656</item>
+               <item>92 —Thesaurus Grammaticus, 8<seg rend="sup">o</seg>
+                  <hi>Bas.</hi> 1663</item>
+               <item>93 —Florilegium Hebraicum, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1648</item>
+               <item>94 —Synagoga Judaica, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+               <item>95 Beaumont's and Fletchers Tragedies and Comedies, fol. <hi>Lond.</hi> 1679</item>
+               <item>96 Bohnii Oeconomia Corporis Animalis, 4<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1686</item>
+               <item>97 Bocharti Geographia Sacra, 4<seg rend="sup">o</seg>
+                  <hi>Franc.</hi> 1681</item>
+               <item>98 Burnet's Mystery of Iniquity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>99 Bartholin. de Ovariis Mulierum, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+               <item>100 Borromaei Acta Ecclesiae Mediolanensis. fol. <hi>Lugd.</hi> 1683</item>
+               <item>101 Begeri Thesaur. ex Thesauro Palatino selectus, fol. <hi>Heidelb.</hi> 1685</item>
+               <item>102 Bonacinae Compend. Casuum Conscientiae, 8<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1671</item>
+               <item>103 Borelli Hortus Simplicium, 8<seg rend="sup">o</seg>
+                  <hi>Castris</hi> 1666</item>
+               <item>104 —de Motionibus Naturalibus 4<seg rend="sup">o</seg> 1670</item>
+               <item>105 Bocconis Icones Plantarum Siciliae, 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1674</item>
+               <item>106 Brown's Method of Merchants Accompts, fol. <hi>Lond.</hi> 1680</item>
+               <item>107 Burgersdicii Idea Philosophiae Naturalis, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1675</item>
+               <item>108 Baxter's Counsel to Young Men, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>109 Boyvini Theologia Quadrapartita Scoti, 4 Vol. fol. <hi>Par.</hi> 1678</item>
+               <item>110 Borremansius de Poetis &amp; Prophetis, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+               <item>111 Boecleri Excerpta Controversiarum, 8<seg rend="sup">o</seg>
+                  <hi>Argent.</hi> 1680</item>
+               <item>112 Beckii Martyrolog. Eccles. Germanicae, 4<seg rend="sup">o</seg> 1687</item>
+               <item>113 Barrow Archimedes, Apollon. Perg. &amp; Theodos. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>114 Boyl's Sceptical Chymist. 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1680</item>
+               <item>115 —of Flame and Air, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>116 —Origine of Gemms, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>117 —of the Saltness of the Sea, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1674</item>
+               <item>118 —Origine of Forms and Qualities, 8<seg rend="sup">o</seg> 1675</item>
+               <item>119 Bacon's Advancement of Learning, fol. <hi>Lond.</hi> 1674</item>
+               <item>120 Bullae, Decreta, Canones, &amp;c. Institut. Societat. Jesu, 8<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1665</item>
+               <item>121 Barlaei Epistolae, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1667</item>
+               <item>122 Bonaespei Theologia Scholastica, 2 Vol. fol. <hi>Ant.</hi> 1662</item>
+               <item>123 Basire of Sacriledge, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>124 Beveregii Codex Canonum vindicatus, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>125 Broweri Fuldenses Antiquitates, 4<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1612</item>
+               <item>126 Bates Elench. Motuum nuperor. in Anglia 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>127 —Idem cum Continuat. Skinneri, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>128 Bartholinus's Anatomy, translated by N. Culpeper, fol. <hi>Lond.</hi> 1668</item>
+               <item>129 Brevint's Saul and Samuel at Endor, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <pb n="5" facs="tcp:202039:4"/>
+               <item>130 Broechusii Rationes Philosophico-Medicae, 4<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1687</item>
+               <item>131 Bathoniensium &amp; Aquigranenss. Thermar. Comparat. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>132 Boylei Experimenta Physico-Mechanica, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>133 Baconi Opera, fol. <hi>Franc.</hi> 1665</item>
+               <item>134 Beveregii Pandectae Canonum, Gr. Lat. 2 Vol. fol. <hi>Oxon.</hi>
+               </item>
+               <item>135 Breviarium Romanum, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1684</item>
+               <item>136 —Idem 2 Vol. cum Rubricis Gallice, 8<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1664</item>
+               <item>137 —Idem in 1 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Col. Agr.</hi> 1682</item>
+               <item>138 —Idem 4 Vol. in 12<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1686</item>
+               <item>139 —Idem 4 Vol. in 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1668</item>
+               <item>140 —Idem in 1 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1685</item>
+               <item>141 —Idem in 1 Vol, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1670</item>
+               <item>142 —Idem 4 Vol. in 18<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1677</item>
+               <item>143 —Idem 4 Vol. sine Rubricis, 4 Vol. in 18<seg rend="sup">o</seg>
+                  <hi>Col. Agr.</hi> 1683</item>
+               <item>144 Burnet's History of the Reformat. in French, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>145 —The second part in French, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>146 Bible, English, Imperial Paper, fol. <hi>Oxon.</hi>
+               </item>
+               <item>147 Book of Common-Prayer, Royal Pap. large Rom. Let. fol. <hi>Oxon.</hi> 1681</item>
+               <item>148 —Idem in Italian, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>149 Baxter's (Rich.) Life of Faith, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>150 Biblia Latina vulgatae Editionis, in 6 Vol. in 24<seg rend="sup">o</seg>
+                  <hi>Col. Agr.</hi>
+               </item>
+               <item>151 Brook's (Tho.) String of Pearl, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>152 Byfield's (Nic.) Marrow of the Oracles of God, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1660</item>
+               <item>153 Bonae (Cardinalis) Opera omnia, in 4<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1677</item>
+               <item>154 —Horologium Asceticum, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>155 Boyle (Rob.) his Tracts, &amp;c. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>156 —Treatise of Gems, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>157 —of Effluviums, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1673</item>
+               <item>158 —of Cold, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>159 —of the Porosity of Bodies <hi>ibid.</hi> 1684</item>
+               <item>160 —of Specifick Medicins, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1685</item>
+               <item>161 —of the Veneration of God, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>162 Bythneri (Vict.) Lyra Prophet. sive in Psal. Dav. Paraph. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>163 Bartholinus (Albert.) de Scriptis Danorum, 8<seg rend="sup">o</seg>
+                  <hi>Hafn.</hi> 1666</item>
+               <item>164 Bartholini (Tho.) Anatomia, 8<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1655</item>
+               <item>165 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1666</item>
+               <item>166 —de Nivis usu Medico, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+               <item>167 —de Armillis Veterum, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1676</item>
+               <item>168 Blount's Glossographia, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>169 Bernier's Continuation of his Memoirs <hi>Lond.</hi> 1672</item>
+               <pb n="6" facs="tcp:202039:5"/>
+               <item>170 Billii (Jac.) Locutiones Graecae, in 12<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1603</item>
+               <item>171 Buxtorfii (Joan.) Manuale Hebraicum &amp; Chaldaicum, in 12<seg rend="sup">o</seg>
+                  <hi>Bas.</hi> 1658</item>
+               <item>172 Brown (Sir Tho.) Miscellany Tracts, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>173 Boteler's Dialogues of Sea-Services, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>174 Binchii Mellificium Theologicum, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>175 Barbette's Chyrurgery, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>176 Burgersdicii (Franc.) Idea Philosophiae Naturalis, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1657</item>
+               <item>177 Balduinus (Jo.) de Calceo; &amp; Nigron. de Caligâ Veter. 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1667</item>
+               <item>178 Burnet's (Bp. Gilb.) Mystery of Iniquity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>179 —(Tho.) Theoria Telluris Sacra, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>180 Birchedi (H.) Poemata Elegiaca, Iambica, &amp;c. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1656</item>
+               <item>181 Basire (Isa.) of Sacrilege, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>182 Bisterfield (Jo. Hen.) Opera in 2 Vol. in 12<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1661</item>
+               <item>183 Barclai (Joan.) Argenis in 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1673</item>
+               <item>184 Borelli (Pet.) Hortus, sive Armamentarium Simplicium, 8<seg rend="sup">o</seg>
+                  <hi>Cast.</hi> 1666</item>
+               <item>185 Bouricius (Joan.) de Officio Judicis, 4<seg rend="sup">o</seg>
+                  <hi>Harl.</hi> 1668</item>
+               <item>186 Burgersdicii (Franc.) Institutiones Logicae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1670</item>
+               <item>187 —Idem cum Logica Heereboordi, 8<seg rend="sup">o</seg>
+                  <hi>Cant.</hi> 1680</item>
+               <item>188 —Institutionum Logicarum Synopsis, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1659</item>
+               <item>189 Boyl (Roberti) Tractatus de qualitatibus Aeris, &amp;c. 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>190 —de Atmosphaeris, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1673</item>
+               <item>191 —de Origine &amp; Viribus Gemmarum, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1673</item>
+               <item>192 Brevint's Saul and Samuel at Endor, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1674</item>
+               <item>193 Basilius Valentinus in English, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>194 Biblia Sacra, viz. Vetus Test. Graecè ex 70 Interpret. 12<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1665</item>
+               <item>195 — Novum Testamentum Graecè, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>196 —Apochrypha Graecè, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>197 —Liturgia Ecclesiae Anglicanae, Graecè, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>198 Bartholini (Tho.) Anatomia, 8<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1674</item>
+               <item>199 —de insolitis partus Humani Viis, 8<seg rend="sup">o</seg>
+                  <hi>Hafniae</hi> 1664</item>
+               <item>200 —de Cometa, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1665</item>
+               <item>201 Barroi Archimedes, &amp;c. cum Lect. Geom. &amp; Opt. 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>202 —Lectiones Geometricae &amp; Opticae separatim, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>203 —Lectiones Mathematicae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>204 Bathoniens. &amp; Aquisgranens. Thermarum Comparatio, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>205 Becmanni (Christop.) Exercitationes Theologicae, fol. <hi>Amst.</hi> 1643</item>
+               <item>206 Buxtorfii (Joan.) Thesaurus Grammaticus Ling. sanctae 8<seg rend="sup">o</seg>
+                  <hi>Basil</hi> 1663</item>
+               <item>207 Becheri (Joan.) Oedipus Chimicus, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>208 Bossuet (Jac. Ben.) Doctrinae Catholicae Expositio, 12<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1678</item>
+               <item>209 Bayfield (Rob.) Exercitationes Anatomicae, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <pb n="7" facs="tcp:202039:5"/>
+               <item>210 Beker (Balt.) de Philosophia Cartesiana, 12<seg rend="sup">o</seg>
+                  <hi>Ves.</hi> 1668</item>
+               <item>211 Bellin. (Laurent.) de Structura Renum, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>212 Blanc (Ludov. le) Theses Theologicae, fol. <hi>Lond.</hi> 1683</item>
+               <item>213 —Ejusdem Supplementum; sive pars secunda <hi>ibid.</hi>
+               </item>
+               <item>214 Barclai Argenidis pars 2da &amp; 3tia cum Not. Variorum 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1669</item>
+               <item>21 Bulli Examen Censurae, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>216 Burgersdicii Institut. Metaphysicae, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>217 Boyl's Usefulness of Experimental Philosophy, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1664</item>
+               <item>218 —Debita Deo, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>219 Bogan Homerus Hebraison, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1658</item>
+               <item>220 —Mirth of a Christian Life, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1653</item>
+               <item>221 Boetius in English, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1674</item>
+               <item>222 —Idem—Latine, 16<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1663</item>
+               <item>223 Bleau de Usu Globor. &amp; Sphaerar. 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1663</item>
+            </list>
+            <list>
+               <item>223* LE Cointe Annal. Ecclesiast. Francorum, 8 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>224 Culverwell of the Light of Nature, 4<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1669</item>
+               <item>225 Chesneau Observationes, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1683</item>
+               <item>226 Charlton de Scorbuto, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>227 Communion under both Species, by the Bp of <hi>Meaux,</hi> 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1685</item>
+               <item>228 Colberti Philosophia, 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>229 Colomesii Observationes Sacrae, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1679</item>
+               <item>230 Cressy's Church-History of Britanny, fol. 1668</item>
+               <item>231 Catalogus Libror. R. Scot, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>232 Craige Methodus Figurarum, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1685</item>
+               <item>233 Corpus Juris Canonici per Lancelot, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1661</item>
+               <item>234 Comber's Companion to the Altar, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>235 Cinnami Histor. Byzantina, Gr. Lat. fol. <hi>E Typogr. Regia Par.</hi>
+               </item>
+               <item>236 Clark Formulae Oratoriae, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>237 Crucii Medulla Logica, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1653</item>
+               <item>238 Common-Prayer Book (Royal Paper, and large Rom. Let.) <hi>Oxf.</hi> 1681</item>
+               <item>239 Chronicon Orientale Ecchellensis, fol. <hi>E Typogr. Regia Par.</hi>
+               </item>
+               <item>240 Cocq. Conversio vera &amp; Apostolica, 8<seg rend="sup">o</seg>
+                  <hi>Leod.</hi> 1685</item>
+               <item>241 Cantelii Metropol. Urbium Histor. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1684</item>
+               <item>242 Cave of the Government of the Ancient Church, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>243 Catena Graecor. Patrum in Psalmos, Gr. Lat. 3 Vol. fol. <hi>Ant.</hi> 1643</item>
+               <item>244 —in Lucam, Latine, fol. <hi>ibid.</hi> 1628</item>
+               <item>245 Cowley's Works, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>246 Catechesis Ecclesiar. Polonicar. 8<seg rend="sup">o</seg> 1659</item>
+               <item>247 Curtius de Reb. ab Alexandro M. gestis, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>248 Cotelerii Monum. Eccles. Graecae. Tom. I. Gr. Lat. 4<seg rend="sup">o</seg>. <hi>Par.</hi>
+               </item>
+               <pb n="8" facs="tcp:202039:6"/>
+               <item>249 Carew's Poems, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>250 Collegii Complutens. Disputat. in Aristot. Dialecticam fol. <hi>Lugd.</hi> 1668</item>
+               <item>251 Cyprii Chronicon Ecclesiae Graecae, 8<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1687</item>
+               <item>252 Cornel. Nepos Notis Boecleri, 12<seg rend="sup">o</seg>
+                  <hi>Traj.</hi> 1665</item>
+               <item>253 Caedmon Paraphrasis Genesios, Saxonice, 4<seg rend="sup">o</seg>
+               </item>
+               <item>254 Compleat Sollicitour and Entring-Clerk, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>255 Clari Opera Juridica, fol. <hi>Lugd.</hi> 1661</item>
+               <item>256 Carmen Tograi Arab. &amp; Lat. cum Prosod. Arabica, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1661</item>
+               <item>257 Corvini Juris-prud. Romana contracta, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1658</item>
+               <item>258 —Juris-prud. Romana in Codicem, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1655</item>
+               <item>259 Compleat Gamester, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>260 Contenson Theologia Mentis &amp; Cordis, fol. <hi>Col.</hi> 1687</item>
+               <item>261 Castillo de Ornatu &amp; Vestibus Aaronis, fol. <hi>Ant.</hi> 1671</item>
+               <item>262 Clavis Homerica, 8<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1673</item>
+               <item>263 Crucii Epistolae, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1681</item>
+               <item>264 Crellii Ethica Aristotel. &amp; Christiana, 4<seg rend="sup">o</seg>
+               </item>
+               <item>265 Charas of Vipers, with Read's Letter, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>266 Cosini Eccles. Anglicanae Politeia in Tab. digesta, fol. <hi>Oxon.</hi> 1684</item>
+               <item>267 Catalogus Bibliothecae Bodleianae, fol. <hi>ibid.</hi> 1674</item>
+               <item>268 Casati Mechanica, 4<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1684</item>
+               <item>269 Carltoni Exercitat. de Different. Animalium, fol. <hi>Oxon.</hi> 1677</item>
+               <item>270 —Idem (Charta Majori) <hi>ibid.</hi>
+               </item>
+               <item>271 Castelli Lexicon Heptaglotton, 2 Vol. fol. <hi>Lond.</hi> 1669</item>
+               <item>272 Cambden's Britannia in French, folio Atlanti <hi>Amst.</hi>
+               </item>
+               <item>273 Claude Responce a la Perpetuite de la Foy, 4<seg rend="sup">o</seg>
+                  <hi>Charenton</hi> 1668</item>
+               <item>274 Croke's Reports Regno Caroli primi, fol. <hi>Lond.</hi> 1683</item>
+               <item>275 Cornelii Nepotis quae extant, in 16<seg rend="sup">o</seg>
+                  <hi>Vesal.</hi> 1668</item>
+               <item>276 Caesaris (Julii) Commentaria, in 18<seg rend="sup">o</seg>
+                  <hi>Amst.</hi>
+               </item>
+               <item>277 Clarendon (Edw. E. of) Answer to Hobbs's Leviath. 4<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1676</item>
+               <item>278 —Idem, large Paper, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>279 Colvils Righteous Branch, 8<seg rend="sup">o</seg>
+                  <hi>Edinb.</hi> 1673</item>
+               <item>280 Case's (Tho.) Imitation of the Saints, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1666</item>
+               <item>281 —Correction, Instruction, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1671</item>
+               <item>282 Coleman (Pet.) Opus Prosodicum Graecum, 8<seg rend="sup">o</seg>
+                  <hi>Franc.</hi> 1668</item>
+               <item>283 Crellii (Joan.) Ethica Aristotelica &amp; Christiana, 4<seg rend="sup">o</seg> 1681</item>
+               <item>284 Crashaw (Rich.) Poemata Graeca &amp; Latina, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1674</item>
+               <item>285 Curtius (Quint.) de Rebus gestis ab Alexand. Magno. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1659</item>
+               <item>286 —Idem cum Notis Loccenii, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1664</item>
+               <item>287 —Idem cum Notis Loccenii, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1671</item>
+               <item>288 Channeville (Jac.) totius Philosophiae Institutio, 6 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1667</item>
+               <item>289 Catalogus Bibliothecae Bodleianae, fol. <hi>Oxon.</hi> 1674</item>
+               <pb n="9" facs="tcp:202039:6"/>
+               <item>290 Craige (Jo.) Methodus Figurarum lineis rectis &amp; curvis, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>291 Capelli Chronologia Sacra, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1655</item>
+               <item>292 Clenardi Graecae Linguae Institutio, edita à Ger. J. Vossio. 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1653</item>
+               <item>293 Catonis Disticha de Moribus, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>294 Catechesis compendiosior Gr. &amp; Lat. per J. Harmarum 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1660</item>
+               <item>295 —Idem Latine, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1659</item>
+               <item>296 Comparis. of the Eloquence of Demosthen. and Cicero. 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1672</item>
+               <item>297 Clavis Homerica, Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1673</item>
+               <item>298 Charltoni (Gualt.) Exercitationes de Animalibus, fol. <hi>Oxon.</hi> 1677</item>
+               <item>299 Cicero (M. Tullius) de Officiis, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1641</item>
+               <item>300 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>Lond</hi> 1669</item>
+               <item>301 —Orationes Selectae, 8<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1669</item>
+               <item>302 Cuperi (Gisb.) Harpocrates, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1676</item>
+               <item>303 —Observationes, 8<seg rend="sup">o</seg>
+                  <hi>Traj. ad Rhen.</hi> 1670</item>
+               <item>304 Casauboni (Is.) Exercitationes in Annales Baronii. 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1663</item>
+               <item>305 Conquest of China by the Tartars, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>306 Considerations touching Free-Schools, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi>
+               </item>
+               <item>307 Chamberlain's Arithmet. in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>308 Clark (Franc.) Praxis Curiae Ecclesiasticae, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1684</item>
+               <item>309 Columna (Fab.) de Purpura, 4<seg rend="sup">o</seg>
+                  <hi>Kiliae</hi> 1675</item>
+               <item>310 Calamy's (Edm.) Codly Man's Ark, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1667</item>
+               <item>311 Confession of Faith, with larger and smaller Catech. 12<seg rend="sup">o</seg>
+                  <hi>Edinb.</hi> 1672</item>
+               <item>312 Castelli (Edm.) Lexicon Heptaglotton, in 2 Vol. fol. <hi>Lond.</hi> 1669</item>
+               <item>313 Cardanus de utilitate ex adversis capienda, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1672</item>
+               <item>314 Corderii (Matur.) Colloquia Familiaria, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1663</item>
+               <item>315 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>316 Comparatio Cardinalis Richeleii &amp; Mazarini, 4<seg rend="sup">o</seg>
+               </item>
+               <item>317 Chrysostom (St. John) of the Education of Youth, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1659</item>
+               <item>318 Cornelius Nepos cum Notis Joan. Loccenii, 8<seg rend="sup">o</seg>
+                  <hi>Hom.</hi> 1654</item>
+               <item>319 Crowaei (Guil.) Elenchus Scriptorum in Sac. Scriptur. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>320 Coccaeus (Jacob.) de Systemate mundi, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1660</item>
+               <item>321 Calendarium novissimum Seraphicum, 8<seg rend="sup">o</seg>
+                  <hi>Ven.</hi> 1675</item>
+               <item>322 Chiffletii (Pet. Franc.) Orationes tres, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1676</item>
+               <item>323 Chardin's Travels into Persia, &amp;c. with Cuts, fol. <hi>Lond.</hi> 1686</item>
+               <item>324 —Idem in French, with the Cuts, in folio <hi>ibid.</hi>
+               </item>
+               <item>325 Charras Pharmacopée Royale, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1676</item>
+               <item>326 Caryl on Job, 2 Vol. fol. <hi>Lond.</hi> 1676</item>
+               <item>327 Clark Oughtredus explicatus, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>328 Carpentarii Philosoph. Libera, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>329 Carmen Tograi cum Not. Pocockii &amp; Prosod. Arabica, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+            </list>
+            <list>
+               <pb n="10" facs="tcp:202039:7"/>
+               <item>330 DUgdale's View of the late Troubles, fol. <hi>Oxf.</hi>
+               </item>
+               <item>331 —Baronage of England, Vol. I. <hi>Lond.</hi> 1675</item>
+               <item>332 Dausquii Orthographia Latini Sermonis, fol. <hi>Par.</hi> 1677</item>
+               <item>333 Duporti Metaphras. Psalmor. Gr. Lat. 4<seg rend="sup">o</seg>. <hi>Lond.</hi>
+               </item>
+               <item>334 Digby's Receipts and Closet, 8<seg rend="sup">o</seg>. <hi>ibid.</hi>
+               </item>
+               <item>335 Du Metz Theologia Theoretica, 2 Vol. 12<seg rend="sup">o</seg>. <hi>Par.</hi> 1682</item>
+               <item>336 —Theologia Practica, 3 Vol. 12<seg rend="sup">o</seg>. <hi>ibid.</hi> 1685</item>
+               <item>337 —de Poenitentia, 12<seg rend="sup">o</seg>. <hi>ibid.</hi> 1685</item>
+               <item>338 Dikes's Worthy Communicant, 12<seg rend="sup">o</seg>. <hi>Lond.</hi> 1680</item>
+               <item>339 Durelli Vindic. Ecclesiae Anglicanae, 4<seg rend="sup">o</seg>. <hi>ibid.</hi>
+               </item>
+               <item>340 Dianae Resolutiones Morales, 10 Vol. fol. <hi>Lugd.</hi> 1680</item>
+               <item>341 Discourse concerning Speech, 12<seg rend="sup">o</seg>. 1666</item>
+               <item>342 Dinneri Epitheta Gr. Lat. 8<seg rend="sup">o</seg>. <hi>Gen.</hi> 1614</item>
+               <item>343 Duty of Servants, 8<seg rend="sup">o</seg>. <hi>Lond.</hi> 1685</item>
+               <item>344 Derodonis Opera Philosophica, 4<seg rend="sup">o</seg>. <hi>Gen.</hi> 1659</item>
+               <item>345 —Philosophia Contracta, 4<seg rend="sup">o</seg>. <hi>ibid.</hi> 1681</item>
+               <item>346 Decrees of the University of Oxford, fol. <hi>Oxf.</hi> 1683</item>
+               <item>347 Dialogue between Pastor and Parishioner, 12<seg rend="sup">o</seg>. <hi>Lond.</hi> 1684</item>
+               <item>348 Discourse for the Furtherance of Christian Piety, 12<seg rend="sup">o</seg>. <hi>ibid.</hi> 1671</item>
+               <item>349 Deerham's Account of Ilmington Waters, 8<seg rend="sup">o</seg>. <hi>Oxf.</hi> 1685</item>
+               <item>350 Dallaeus de Confirmat. &amp; extrema Unctione, 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1659</item>
+               <item>351 —de Auriculari Confessione, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+               <item>352 —de Cultus Religiosi objecto, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1665</item>
+               <item>353 Drexelii Opera omnia, 2 Vol. fol. <hi>Lugd.</hi> 1675</item>
+               <item>354 Delices de la France avec les Figures <hi>Amst.</hi> 1670</item>
+               <item>355 Dugdale's (Sir Will.) View of the late Troubles in Engl. fol. <hi>Oxon.</hi> 1681</item>
+               <item>356 Dictys Cretensis de Bello Trojano, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1631</item>
+               <item>357 Dugard's (Will.) English Rudiments, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>358 Degenerate Plant, a Treatise against Ceremonies, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1668</item>
+               <item>359 Dallaeus (Joan.) de Auriculari Latinorum Confessione, 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1661</item>
+               <item>360 —de Confirmatione &amp; extremâ Unctione, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1659</item>
+               <item>361 —adversus Latin. Tradition. de Cultus Religisi obj. 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1664</item>
+               <item>362 —Apologia pro Ecclesiis Reformatis, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1677</item>
+               <item>363 —de Fidei ex Scripturis demonstratione, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1677</item>
+               <item>364 Dugard (Guliel.) Rhetorices Elementa, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>365 Daily Devotions, in 24<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1683</item>
+               <item>366 Dyke (Jer.) his Worthy Communicant, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>367 Digbaei (Kenel.) Theatrum Sympatheticum, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1661</item>
+               <item>368 Davezan (Joan.) de Sponsalibus &amp; Matrimoniis, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1662</item>
+               <item>369 Diaconi (Geor.) Epitome Logices Aristotelicae Graece 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1666</item>
+               <item>370 Disquisitio de Republica monstrosa, in 12<seg rend="sup">o</seg> 1674</item>
+               <pb n="11" facs="tcp:202039:7"/>
+               <item>371 Dinneri (Conr.) Epitheta Graeco-Latina, 8<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1607</item>
+               <item>372 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1614</item>
+               <item>373 Dolittel (Tho.) on the Sacrament, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>374 Diestii (Henr.) Grammatica Hebraea, in 8<seg rend="sup">o</seg>. <hi>Davent.</hi> 1665</item>
+               <item>375 Dugdale's Heraldry: Or, Antient Usage of Bearing Arms, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1682</item>
+               <item>376 Diestii (Sam.) Clavis Linguae Sanctae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1679</item>
+               <item>377 Du-Clos of the Mineral Waters of France, in 12<seg rend="sup">o</seg>. <hi>Lond.</hi> 1684</item>
+               <item>378 D'Avenant (Sir Will.) his Play, The Wits, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1665</item>
+               <item>379 Duport Paraphr. Metrica Gr. libri Job. cum Lat. Interp. 8<seg rend="sup">o</seg>
+                  <hi>Cant.</hi> 1653</item>
+               <item>380 —Proverbia, Ecclesiastes, &amp; Cantica Graec. carmine 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1646</item>
+               <item>381 Duporti Metaphrasis Psalmorum, Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>382 Drope of Fruit-Trees, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1684</item>
+               <item>383 Duck de Usu &amp; Authoritate Jur. Civilis, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>384 Drexelius of Eternity, in Welch, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1661</item>
+               <item>385 Dugdale of Bearing Arms, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>386 Decrees of Pope Innocent XI. 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1679</item>
+               <item>387 Diacon. in Aristotel. Logic. Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1666</item>
+            </list>
+            <list>
+               <item>388 EVelyn's Sylva: or, Discourse of Forest-Trees, fol. <hi>Lond.</hi> 1679</item>
+               <item>389 Evangelia Gothica &amp; Anglo-Saxonica, 4<seg rend="sup">o</seg>
+                  <hi>Dord.</hi> 1665</item>
+               <item>390 —Idem (charta majori) 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>391 Euclids Elements explain'd, by Milliet De-Chales, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1685</item>
+               <item>392 Epictetus Philosophy, Englished by J. Davies, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>393 M. de Esparza Cursus Theologicus, fol. <hi>Lugd.</hi> 1685</item>
+               <item>394 Enter into thy Closet, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>395 Erpenii Grammatica Arabica, 4<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1656</item>
+               <item>396 Exercitatio de usu Vini Emetici, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1661</item>
+               <item>397 Evil of Health-Drinking, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>398 Examen of the Way of Teaching the Latin Tongue, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1669</item>
+               <item>399 Erasmi Paraphras. in N. Tstamentum, 4<seg rend="sup">o</seg>
+                  <hi>Han.</hi> 1668</item>
+               <item>400 Elegantiae Poeticae, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1679</item>
+               <item>401 Estii Commentar. in omnes Epistolas, fol. <hi>Par.</hi> 1666</item>
+               <item>402 Exercises de la Perfect. Chrestienne, per A. Roderig. 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>ib.</hi>
+               </item>
+               <item>403 Episcopii Volumen primum, fol. <hi>Hag. Com.</hi> 1678</item>
+               <item>404 Enter into thy Closet, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>405 Evelyn's Translation of the first Book of Lucretius, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1656</item>
+               <item>406 English Rogue, second part, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>407 Eedes Christ Exalted, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1659</item>
+               <item>408 Erasmi Colloquia cum Notis Variorum, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1664</item>
+               <item>409 —Moriae Encomium cum Notis G. Listrii, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1668</item>
+               <item>410 Eyssonius (Henr.) de ossibus Infantis, 12<seg rend="sup">o</seg>
+                  <hi>Groning.</hi> 1659</item>
+               <item>411 Epicteti Enchiridion cum Not. Simplicii &amp; Arriani, G.L. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <pb n="12" facs="tcp:202039:8"/>
+               <item>412 Epicteti Enchirid. cum Not. Simplicii Gr. Lat. (separatim) 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>413 Entii (Geor.) Apologia pro circuitione Sanguinis, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1685</item>
+               <item>414 Epigrammatum delectus, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1683</item>
+               <item>415 —Idem, 12<seg rend="sup">o</seg> last Edition. <hi>ibid.</hi>
+               </item>
+               <item>416 Eugalenus (Sever.) de Scorbuto, 8<seg rend="sup">o</seg>
+                  <hi>Hag.</hi> 1658</item>
+               <item>417 Epigrammata Graeca, Graece, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>418 Euclidis Elementa demonstrata, per Is. Barrow, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>419 Epicteti Enchirid. &amp;c. Gr. Lat. cum Notis, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1680</item>
+               <item>420 Ellis's Gentile Sinner, 12<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1679</item>
+               <item>421 Erasmi Colloquia, 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>422 Edmundi Synonyma Linguae Latinae, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1661</item>
+            </list>
+            <list>
+               <item>423 FAbri Opus Concionum cum Auctuario, 5 Vol. fol. <hi>Ant.</hi> 1663</item>
+               <item>424 Filmer's Patriarcha, or Natural Power of Kings, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>425 Faber de Plantis, de Generat. Animalium, &amp;c. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1666</item>
+               <item>426 Funeral of the Mass, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>427 Frassen Scotus Academicus, 4 Vol. fol. <hi>Par.</hi> 1672</item>
+               <item>428 Feld Manuduct. ad Juris-prudentiam, 12<seg rend="sup">o</seg>
+                  <hi>Helmst.</hi> 1683</item>
+               <item>429 French Grammar, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>430 Flores seu Formulae Loquendi, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1628</item>
+               <item>431 Foster's Miscellanies. Published by J. Twisden, fol. <hi>Lond.</hi> 1659</item>
+               <item>432 Fabri Apologetic. Doctrinae Moralis Societat. Jesu, fol. <hi>Lugd.</hi> 1670</item>
+               <item>433 Florus cum Notis Salmasii, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>434 Fritschii Observation. Juris Ecclesiast. Practicae, 4<seg rend="sup">o</seg> 1687</item>
+               <item>435 Fabri Dialogi Physici, 8<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1669</item>
+               <item>436 Ign. a S. Francisco Synopsis Magnalium S. Josephi, fol. <hi>Leod.</hi> 1684</item>
+               <item>437 Faramond en 12 Tomes, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>438 Fables Choises en Vers par M. Fontaine <hi>ibid.</hi> 1687</item>
+               <item>439 Fontani (Gab.) Medicina Anti-Hermetica, 4<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1657</item>
+               <item>440 La <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>da Pastora, Comoedia Pastoralis Latine, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1658</item>
+               <item>441 Flori (Lucii) Historia in 12<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi>
+               </item>
+               <item>442 Fleckno's Epigrams, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>443 Francis Spira, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>444 Fowler (Edw.) of Christian Liberty, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>445 Fettiplace's Christian Monitor, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>446 Ferrarii (Ja. Alexand.) Euclides Catholicus, in 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1676</item>
+               <item>447 —(Jo. Bapt.) Orationes, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1668</item>
+               <item>448 Foiani (Guid.) Tractatus de Sequestro, 8<seg rend="sup">o</seg>
+                  <hi>Franc.</hi> 1609</item>
+               <item>449 Fredro (A. Max.) Togae &amp; Belli Notationum Fragm. 12<seg rend="sup">o</seg>
+                  <hi>Dant.</hi> 1660</item>
+               <item>450 Frisii (Gemmae) Arithmetica Practica, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1652</item>
+               <item>451 Francii (Pet.) Epicedium in Funere M. Adrian. Ruteri 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+                  <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>77</item>
+               <pb n="13" facs="tcp:202039:8"/>
+               <item>452 Fabricii (Vincent.) Poemata, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1638</item>
+               <item>453 Foecleri (Joan.) Rudimenta ad Linguam Sanctam 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+               <item>454 Fabri (Tanaq.) Fabulae, in 12<seg rend="sup">o</seg>
+                  <hi>Salm.</hi> 1673</item>
+               <item>455 Feltman (Gerh.) de Cadavere inspiciendo, 4<seg rend="sup">o</seg>
+                  <hi>Gron.</hi> 1673</item>
+               <item>456 Fabricius de Unitate Eccles. Britannicae, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1676</item>
+               <item>457 Faustini Opera, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1678</item>
+            </list>
+            <list>
+               <item>458 GOmari Opera Theologica, fol. <hi>Amst.</hi> 1664</item>
+               <item>459 Garnerii Gemmulae Linguae Latinae, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1676</item>
+               <item>460 Grammatical Drollery, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>461 Gomez Elogia Societatis Jesu, 4<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1677</item>
+               <item>462 Gaudentius de Justinianei seculi Moribus, 8<seg rend="sup">o</seg>
+                  <hi>Argent.</hi> 1654</item>
+               <item>463 Galei Apollodorus, &amp;c. Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1675</item>
+               <item>464 Gallants, or Reciprocal Confidents, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>465 Gerunda de Episcopatus statu, &amp;c. fol. <hi>Norimb.</hi> 1648</item>
+               <item>466 Galtruchii Opuscula, 5 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>467 Graunt's Observations on the Bills of Mortality, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>468 Gaillard Trifoedus Marianum, 4<seg rend="sup">o</seg>
+                  <hi>Col. Agr.</hi> 1683</item>
+               <item>469 Godwyn's Roman Antiquities, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>470 —Jewish Antiquities, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>471 —Roman, Jewish, and Greek Antiquities, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>472 Gaudentii Palladium Theologicum Scholastic. 6 Vol. fol. <hi>Lugd.</hi> 1676</item>
+               <item>473 Le Grand Apologia pro Cartesio, 8<seg rend="sup">o</seg>. <hi>Lond.</hi> 1679</item>
+               <item>474 Grosippi Rudimenta Gramm. Philosophicae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1686</item>
+               <item>475 Grew's Discourse of Mixture, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>476 Gailhard of Settlement after Travel, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>477 Gravii Tabulae binae Geograph. Arab. &amp; Lat. 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1648</item>
+               <item>478 Graaf Opera omnia, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1677</item>
+               <item>479 Godfrey of Bulloign, by E. Fairfax, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1687</item>
+               <item>480 Grotius de Jure Belli &amp; Pacis, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1670</item>
+               <item>481 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1680</item>
+               <item>482 —Poemata, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>483 —quaedum hactenus inedita, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1652</item>
+               <item>484 —de Veritate Religion. Christianae, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1674</item>
+               <item>485 Goldsborough's Reports, 4<seg rend="sup">o</seg> 1653</item>
+               <item>486 Gesta Romanorum, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1689</item>
+               <item>487 Gonet Clypeus Theologiae Thomisticae, 6 Vol. fol. <hi>Col.</hi> 1671</item>
+               <item>488 Grand Cyrus en X Tomes, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1653</item>
+               <item>489 Garnerii (Joan.) Liber diurnus Romanor. Pontificum 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1680</item>
+               <item>490 Gellii (Auli) Noctes Atticae, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>491 Gallonius (Ant.) de Martyrum Cruciatibus, 12<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1668</item>
+               <pb n="14" facs="tcp:202039:9"/>
+               <item>492 Gouchani (Tho.) Logica elenctica, 8<seg rend="sup">o</seg>
+                  <hi>Dubl.</hi> 1683</item>
+               <item>493 Goedartius (Joh.) de Insectis, cum Notulis M. Lister, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>494 Gardiner (Sam.) De Trinitate, adv. Chr. Sandium, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>495 Garbut's Treatise of the Resurrection, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1669</item>
+               <item>496 Genealogy according to Scripture, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1640</item>
+               <item>497 Galateus de moribus, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi>
+               </item>
+               <item>498 Gentilis (Alber.) de Legationibus, 8<seg rend="sup">o</seg>
+                  <hi>Han.</hi> 1607</item>
+               <item>499 —de Armis Romanis, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1612</item>
+               <item>500 —Hispanicae Advocationis Libri duo, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1661</item>
+               <item>501 Grew's Anatomy of Vegetables, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>502 Grotii (Hug.) Sophompaneas, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1635</item>
+               <item>503 —Epistolae ad Gallos, 12<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1674</item>
+               <item>504 Grube (Herm.) de transplantatione Morborum, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1674</item>
+               <item>505 —de Ictu Tarantulae, 8<seg rend="sup">o</seg>
+                  <hi>Franc.</hi> 1679</item>
+               <item>506 Georgine's Description of Patmos, Nicaria, &amp;c. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>507 Gebri Arabis Chimia, edita a Casp. Hornio, in 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1668</item>
+               <item>508 Gigantis (Joan.) Enchiridion Sphaericum, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1664</item>
+               <item>509 Galtruchii (Pet.) Mathematica, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>510 Gothofredi (Joan.) Manuale Juris, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1676</item>
+               <item>511 Guichardo (Mart. de) De Antiquis Triumphis, 12 <hi>Amst.</hi> 1662</item>
+               <item>512 Graaff de Organis Virorum Generationi inservientibus, 8<seg rend="sup">o</seg> 1668</item>
+               <item>513 Gaffarelli Curiositates inauditae, Notis G. Michaelis, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1676</item>
+               <item>514 Gutherius (Jac.) de Officiis Domus Augustae, 8<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1672</item>
+               <item>515 Gronovii (Jac. Frid.) Observationes, in 12<seg rend="sup">o</seg>
+                  <hi>Davent.</hi> 1652</item>
+               <item>516 Golii (Theoph.) Epitome Doctrinae Moralis, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1662</item>
+               <item>517 Grand (Ant. le) Historia Sacra, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1685</item>
+               <item>518 Gale (Tho.) Historiae Poeticae Scriptores antiqui, Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1675</item>
+               <item>519 Gouldman's Dictionary, 4<seg rend="sup">o</seg>
+                  <hi>Camb.</hi> 1678</item>
+               <item>520 Galei Apollodorus, &amp;c. Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi>
+               </item>
+               <item>521 Gardineri Orationes, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+            </list>
+            <list>
+               <item>522 HOspiniani Opera omnia 7 Tom. fol. <hi>Gen.</hi> 1681</item>
+               <item>523 —Concordia Discors, fol. <hi>ibid.</hi> 1681</item>
+               <item>523 *—Historia Sacramentaria, fol. <hi>ibid.</hi>
+               </item>
+               <item>524 —de Festis Judaeoram &amp; Christianor. fol. <hi>ibid.</hi>
+               </item>
+               <item>525 —de Monachis, fol. <hi>ibid.</hi>
+               </item>
+               <item>526 Horae Diurnae Festor. Ord. Fratrum Minorum, 24<seg rend="sup">o</seg>
+                  <hi>Ven.</hi> 1669</item>
+               <item>527 History of the Grand Visiers, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>528 Hogeland de Dei Existentia, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1676</item>
+               <item>529 Horoccii Opera, &amp;c. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>530 Hacket's Century of Sermons, fol. <hi>ibid.</hi> 1675</item>
+               <pb n="15" facs="tcp:202039:9"/>
+               <item>531 —Idem, (of the larger Paper) <hi>ibid.</hi>
+               </item>
+               <item>532 Hygini Fabulae Notis Schefferi &amp; Munckeri, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1674</item>
+               <item>533 Hook's Motion of the Earth, with other of his Tracts, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>534 Hautini Patrocinium defunctorum, fol. <hi>Leod.</hi> 1665</item>
+               <item>535 Heylin's Help to <hi>English</hi> History, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>536 Hyginus &amp; Polybius de Castris Romanor. 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1660</item>
+               <item>537 Hudibras, the fourth part, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>538 Horn Introduct. ad Chirurgiam, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1675</item>
+               <item>539 —Manuduct. ad Histor. Corporis humani, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1675</item>
+               <item>540 History of Phil. de Comines, fol. <hi>Lond.</hi> 1674</item>
+               <item>541 Horti Indici Malabarici pars tertia, fol. <hi>Amst.</hi> 1682</item>
+               <item>542 Hommey Supplementum Patrum, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1685</item>
+               <item>543 Hobbs Tracts, viz. Behemoth, <hi>&amp;c.</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>544 —Translation of Homer, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1686</item>
+               <item>545 Historiae Byzantinae Scriptores Gr. Lat. 23 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>546 Hallei Catalog. Stellarum Australium, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>547 Hexham's English and Dutch Dictionary, 4<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1675</item>
+               <item>548 Holdsworth Praelectiones Theologicae, fol. <hi>Lond.</hi> 1661</item>
+               <item>549 Holder's Elements of Speech, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1669</item>
+               <item>550 Huetii Demonstratio Evangelica, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1680</item>
+               <item>551 Herbert's Travels into Africa, fol. <hi>Lond.</hi> 1677</item>
+               <item>552 Du Hamel Philosophia, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Noremb.</hi> 1681</item>
+               <item>553 Halloix Origenes Defensus, fol. <hi>Leod.</hi> 1648</item>
+               <item>554 Haraei Annal. Ducum Brabantiae, 2 Vol. fol. <hi>Ant.</hi> 1623</item>
+               <item>555 History of Ecclesiastical Revenues, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>556 Homelies of the Church of England, fol. <hi>Lond.</hi> 1683</item>
+               <item>557 Hornii Geograph. Vetus sacra &amp; profana, cum Tab. fol. <hi>Amst.</hi> 1684</item>
+               <item>558 Hippocratis &amp; Galeni Opera Gr. Lat. per Chartar. 9 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>559 Horae Diurnae Breviarii Romani, 12<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1683</item>
+               <item>560 —Idem in 24<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1686</item>
+               <item>561 —Idem in 32<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1680</item>
+               <item>562 Histoire de Herodote par Mr. Du Ryer. de la grand Pap. fol. <hi>Par.</hi>
+               </item>
+               <item>563 —de Thucydide par P. D'Ablancourt, fol. <hi>Par.</hi>
+               </item>
+               <item>564 —de France par Mezeray, 3 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>565 —Generales des Antilles en 4 parties, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi>
+               </item>
+               <item>566 —de Polybe par Du Ryer, 3 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1670</item>
+               <item>567 —de Dion Cassius, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1674</item>
+               <item>568 —de Justin par le Sieur de Colomby, 12<seg rend="sup">o</seg>
+                  <hi>Saumur.</hi> 1622</item>
+               <item>569 —de la Decadence del' Empire par L. Maimbourg, 12<seg rend="sup">o</seg> 1681</item>
+               <item>570 —del' Arrianisme par Maimbourg, 3 Vol. 12<seg rend="sup">o</seg> 1682</item>
+               <item>571 —du Lutheranisme par Maimbourg, 2 tom. 12<seg rend="sup">o</seg> 1681</item>
+               <pb n="16" facs="tcp:202039:10"/>
+               <item>572 Histoire des Ministres d' Estat, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1669</item>
+               <item>573 —des Amazones, en 2 Tomes, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1678</item>
+               <item>574 —de la Ville de Geneve, par Mr. Spon. 2 Tom. 12. <hi>Par.</hi> 1678</item>
+               <item>575 —de <hi>Henry le Grand,</hi> par <hi>Perefix</hi> en 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1679</item>
+               <item>576 —de Troubles de Hongrie, 2 Tomes en 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1686</item>
+               <item>577 —Amoreuse de France, 12<seg rend="sup">o</seg>
+                  <hi>Cologne</hi>
+               </item>
+               <item>578 —de la Reformation, par Dr. <hi>Burnes,</hi> 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>579 <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (Dan.) Demonstratio Evangelica, fol. <hi>Par.</hi> 1679</item>
+               <item>580 Homeri Ilias cum Notis Didymi Gracè (chartâ majori) 8<seg rend="sup">o</seg>
+                  <hi>Ox.</hi>
+               </item>
+               <item>581 —Idem—(charta min.) 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>582 —Ilias Graecè &amp; Latinè, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi>
+               </item>
+               <item>583 —Odyssea Gracè &amp; Latinè, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>584 Horoccii (Jer.) Opuscula, &amp;c. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>585 Horstii (Jac. Merl.) Paradisus animae Christianae, 12<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1675</item>
+               <item>586 History of the House of <hi>Este,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>587 <hi>Helvetius</hi> of the Philosopher's Stone, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>588 Hygini Fabulae cum Notis Schefferi &amp; Munckeri, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1674</item>
+               <item>589 History of the Succession of the Crown of <hi>England,</hi> fol. <hi>Lond.</hi> 1681</item>
+               <item>590 Helvici (Christoph.) Colloquia Familiaria, 8<seg rend="sup">o</seg> 1645</item>
+               <item>591 Heereboord (Adrian.) Pneumatica, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1659</item>
+               <item>592 —Philosophia Naturalis, 8<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1663</item>
+               <item>593 —Logica, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1663</item>
+               <item>594 —Logica, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>595 —Meletemata Philosophica, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1680</item>
+               <item>596 Hudibras, 4th part, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>597 <hi>Herle</hi>'s <hi>Tripos,</hi> or Three Treatises, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>598 Hugenii (Christ.) Systema Saturnium, 4<seg rend="sup">o</seg>
+                  <hi>Hag.</hi> 1659</item>
+               <item>599 Halleii (Edm.) Catalogus Stellarum Australium, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>600 <hi>Hall (Tho.)</hi> his Exposition of St. <hi>Paul</hi>'s Epistle to <hi>Tim.</hi> fol. <hi>Lond.</hi> 1658</item>
+               <item>601 Hool (Caroli) Grammatica Latina, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1665</item>
+               <item>602 —Pueriles Confabulatiunculae, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1673</item>
+               <item>603 Huise (Joan.) Florilegium Phrasicon, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1659</item>
+               <item>604 Herbert's (Geo.) Countrey Parson, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1675</item>
+               <item>605 Heckeri (Joan) Ephemeris ab anno 1666 ad an. 1680, 4<seg rend="sup">o</seg>
+                  <hi>Ged.</hi> 1662</item>
+               <item>606 Hospinianus (Rod.) de Monachis, fol. <hi>Gen.</hi> 1669</item>
+               <item>607 —de Templis, fol. <hi>ibid.</hi>
+               </item>
+               <item>608 —Historia Jesuitica, fol. <hi>ibid.</hi>
+               </item>
+               <item>609 —de Festis Judaeorum &amp; Christianorum, fol. <hi>ibid.</hi>
+               </item>
+               <item>610 <hi>How</hi> of Delighting in God, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>611 —Vanity of this mortal Life, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>612 Harvey (Guid.) de Febribus, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <pb n="17" facs="tcp:202039:10"/>
+               <item>613 Harvey of the French Pox, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>614 Hammond (Hen.) de Confirmatione, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1661</item>
+               <item>615 Hypothesis Physica nova, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>616 Howard's Journey to <hi>Vien.</hi> and <hi>Constant.</hi> by <hi>Jo. Burbury,</hi> 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>617 Hedraei (Bened.) Astrolabii Geometrici Structura, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1643</item>
+               <item>618 Hesketh's Exhort. to a frequent receiving the Commun. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>619 Homeri Gnomologia illustrata, per Jac. Duportum, 4<seg rend="sup">o</seg> G.L. <hi>Cant.</hi> 1661</item>
+               <item>620 Hoffmanni (Frid.) Epigrammata, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi>
+               </item>
+               <item>621 Harvey of the Circulation of the Blood, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>622 Hugenii (Constant.) Momenta desultoria Poematum, 8<seg rend="sup">o</seg>
+                  <hi>Hag.</hi> 1655</item>
+               <item>623 Help to Discourse (new one) in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>624 Hermannidae (Rut.) Magnae Britanniae, <hi>&amp;c.</hi> Descriptio in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>625 Hulsii (Ant.) Systema Logicum, 12<seg rend="sup">o</seg>
+                  <hi>Dordr.</hi> 1658</item>
+               <item>626 Herbinius (Joan.) de admirandis mundi Cataractis, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+               <item>627 Historiae Romanae Epitome, in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1625</item>
+               <item>628 Homeri Ilias Graeco Lat. in 16<seg rend="sup">o</seg>
+                  <hi>Genev.</hi> 1641</item>
+               <item>629 Histoire de la Laponie, par Mr. Scheffer, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1678</item>
+               <item>630 Hammond's Sermons (large Paper) fol. <hi>Lond.</hi> 1675</item>
+               <item>631 —Catechisme, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>632 Hildebrandi Antiquitat. Romanae, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1673</item>
+            </list>
+            <list>
+               <item>633 JAmblichus de Mysteriis Aegyptior. G. L. per T. Gale, fol. <hi>Oxon.</hi> 1678</item>
+               <item>634 T. à Jesu Opera, 2 Tom. fol. <hi>Col.</hi> 1684</item>
+               <item>635 H. à S. Ignatio Theologia Veterum, fol. <hi>Leod.</hi> 1677</item>
+               <item>636 Joseph Opera, 4 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1671</item>
+               <item>637 Jackson's Works, Vol. 1. fol. <hi>Lond.</hi> 1673</item>
+               <item>638 —Vol. 3. fol. <hi>ibid.</hi>
+               </item>
+               <item>639 Istoria di Poeti Graeci da Lorenzo Crasso, fol. <hi>Nap.</hi> 1678</item>
+               <item>640 —Naturale di Ferrante Imperato, fol. <hi>Ven.</hi> 1672</item>
+               <item>641 Ingelo (Nath.) his Bentivolio &amp; Urania, fol. <hi>Lond.</hi> 1682</item>
+               <item>642 Justiniani Institutionum Libri IV. in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi>
+               </item>
+               <item>643 Justini Historia ex Trogi Pompeii Libris excerpta, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>644 Jacomb (Dr. Tho.) Sermons on the 8th to the <hi>Romans,</hi> 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>645 Imola (Joan. ab) de Appellationibus, in 8<seg rend="sup">o</seg>
+                  <hi>Spir.</hi> 1608</item>
+               <item>646 Image of the Age, a Poem, by <hi>N. Williams,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1683</item>
+               <item>647 Jonstoni (Joan.) Historia Ecclesiastica &amp; Civilis, 12<seg rend="sup">o</seg>
+                  <hi>Francof.</hi> 1672</item>
+               <item>648 —Thaumatographia, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>649 —Natura Constantiae, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1634</item>
+               <item>650 Instructions for Oratory, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1682</item>
+               <item>651 Jamblichus de Mysteriis Aegyptiorum, Chald. <hi>&amp;c.</hi> G.L. fol. <hi>Oxon.</hi> 1678</item>
+               <item>652 Johnson's Scholar's Guide, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <pb n="18" facs="tcp:202039:11"/>
+               <item>653 Justini Historia, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>654 Jackson's (Jo.) true Evangelical Temper, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1641</item>
+               <item>655 Ignatii Epistolae G. L. cum Notis Isa. Vossii, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>656 Johnson (Guil.) Lexicon Chimicum, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1660</item>
+               <item>657 Jugemens Canoniques des Evesques, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1671</item>
+               <item>658 Jones Prolusiones Academicae, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1660</item>
+               <item>659 Juvenalis &amp; Persii Satyrae Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1689</item>
+            </list>
+            <list>
+               <item>660 KIrcheri Mundus Subterraneus, fol. <hi>Amst.</hi> 1668</item>
+               <item>661 —Ars magna Lucis &amp; Umbrae, fol. <hi>ibid.</hi> 1681</item>
+               <item>662 —Descriptio Latii, fol. <hi>ibid.</hi> 1671</item>
+               <item>663 —Physiologia Kircheriana, fol. <hi>ibid.</hi> 1680</item>
+               <item>664 Kempis de Imitatione Christi, cum figur. 24<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1664</item>
+               <item>665 —Idem interprete Seb. Castalione, 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1628</item>
+               <item>666 Kortholti Comment. in Justin. Martyrem, fol. 1686</item>
+               <item>667 Keuchenii (Rob.) Antoninus Pius in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1667</item>
+               <item>668 Kuhlmannus (Quir.) de arte magna Sciendi, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1674</item>
+               <item>669 Kerckringii (Theod.) Anthropogeniae Ichnographia, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>670 Knatchbull Animadv. in N. Testament. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1676</item>
+               <item>671 Killigrew's Siege of Urbin a Tragi-Comedy, fol. <hi>Oxf.</hi> 1666</item>
+            </list>
+            <list>
+               <item>672 LIpsii Opera 4 Vol. fol. <hi>Ant.</hi>
+               </item>
+               <item>673 —Politica, 24<seg rend="sup">o</seg>
+                  <hi>Vesal.</hi> 1671</item>
+               <item>674 —Monita &amp; Exempla, 24<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>675 Lippoman in Genesin &amp; Exodum, 2 Vol. fol. <hi>Lugd.</hi> 1657</item>
+               <item>676 Lobbetii Opera omnia, 3 Vol. fol. <hi>Leod.</hi> 1668</item>
+               <item>677 Livii Historia, 3 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Tolosae</hi> 1663</item>
+               <item>678 Lowth of Church-Power, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>679 Licetus de Monstris, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>680 Lucae Annotat. ad Concil. Trident. 4<seg rend="sup">o</seg>
+                  <hi>Col. Agr.</hi> 1684</item>
+               <item>681 Lower de Corde, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>682 Laymanni Theolog. Moralis <hi>Bamb.</hi> 1669</item>
+               <item>683 Leandri à S. Sacramento Operum Summa, fol. <hi>Ludg.</hi> 1672</item>
+               <item>684 Luzancy's Reflections on the Council of <hi>Trent,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1677</item>
+               <item>685 Lucani Pharsalia Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1681</item>
+               <item>686 Leikherus de Jure Maritimo, 12<seg rend="sup">o</seg>
+                  <hi>Dresd.</hi> 1685</item>
+               <item>687 Lindae Descriptio Orbis, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>688 Life of Mary Magdalen of Piazzi, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1687</item>
+               <item>689 —of Peter d' Aubusson, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>690 —of John late Earl of Rochester, by G. Burnet, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>691 —of Bp. Sanderson, by Iz. Walton, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <pb n="19" facs="tcp:202039:11"/>
+               <item>692 —of the English Poets, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>693 Lapide Comment. in Libros Historicos, fol. <hi>Ant.</hi> 1676</item>
+               <item>694 Lacunae Epitome Operum Galeni, fol. <hi>Lugd.</hi> 1643</item>
+               <item>695 Luitprandi Opera, fol. <hi>Ant.</hi> 1640</item>
+               <item>696 Le Mort Compendium Chymicum, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1682</item>
+               <item>697 Lupi Vita Thomae Cantuariensis, 4<seg rend="sup">o</seg>
+                  <hi>Bruxel.</hi> 1682</item>
+               <item>698 Lomini Haeresis Blakloana, 4<seg rend="sup">o</seg>
+                  <hi>Gand.</hi> 1675</item>
+               <item>699 Lomeir de Lustrationib. Veterum, 4<seg rend="sup">o</seg>
+                  <hi>Ultraj.</hi> 1681</item>
+               <item>700 —de Bibliothecis, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1680</item>
+               <item>701 Leigh Critica Sacra in V. &amp; N. Testam. fol. <hi>Amst.</hi> 1639</item>
+               <item>702 Linglois Decisiones in Codicem Justiniani, fol. <hi>Ant.</hi> 1622</item>
+               <item>703 Legatio Batavica ad M. Tartariae Chamum cum fig. fol. <hi>Amst.</hi> 1668</item>
+               <item>704 Leusden Philologus Hebraeus, 4<seg rend="sup">o</seg>
+                  <hi>Ultraj.</hi> 1672</item>
+               <item>705 —Philologus Hebraeo-mixtus, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>706 —Philologus Hebraeo-Graecus, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1683</item>
+               <item>707 —Clavis Hebraica Vet. Testamenti, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1683</item>
+               <item>708 —Compendium Biblicum, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1680</item>
+               <item>709 Lubienecii Histor. Cometarum 2 Vol. cum figur. fol. <hi>Amst.</hi> 1666</item>
+               <item>710 Lyndwood Provinciale sive Constitution. Angliae, fol. <hi>Oxon.</hi> 1679</item>
+               <item>711 Lucien D'Ablancourt, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi>
+               </item>
+               <item>712 Ludolphi (Job.) Historia Aethiopica, fol. <hi>Francof.</hi> 1681</item>
+               <item>713 Levet of the Ordering of Bees, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1634</item>
+               <item>714 Lusitania Vindicata, in 12<seg rend="sup">o</seg>
+               </item>
+               <item>715 Lively Oracles, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1679</item>
+               <item>716 Launoii (Joan.) Academia Parisiensis illustrata 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1682</item>
+               <item>717 Lavater (Ludov.) de Spectris, Lemuribus, &amp;c. 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1659</item>
+               <item>718 Lowth's Catechism, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>719 Lower (Rich.) de Corde, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>720 Legatio Imperatoris Indorum ad Regem Lusitaniae <hi>Dord.</hi> 1618</item>
+               <item>721 Lucian's Works, 3d Volume, by Ferrand Spence, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>722 Lightfoot (Joan) Horae Hebraicae in 1 Epist. ad Corinth. <hi>Par.</hi> 1677</item>
+               <item>723 Lydiat (Tho.) de anno Nativitatis, Baptism. <hi>&amp;c.</hi> Jesu Chr. 12<seg rend="sup">o</seg> 1613</item>
+               <item>724 —Canones Chronologici, in 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>725 Ladies Cabinet, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1661</item>
+               <item>726 Longinus de Eloquentia Notis Ger. Langbaine, G. L. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1638</item>
+               <item>727 Lipsii (Justi) ad Velleium Paterculum Animadvers. 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1591</item>
+               <item>728 Lucani (M. Annaei) Phars. cum Notis Farnabii, Grotii, <hi>&amp;c. Amst.</hi> 1681</item>
+               <item>729 Luzancy's Reflexions on the Council of <hi>Trent,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1677</item>
+               <item>730 Lomini (M.) Blackloanae Haeresis Historia, 4<seg rend="sup">o</seg>
+                  <hi>Gand.</hi> 1675</item>
+               <item>731 Leusden (Joan.) Compendium Biblicum, in 12<seg rend="sup">o</seg>
+                  <hi>Ultraj.</hi> 1673</item>
+               <item>732 —Compendium Graecum No. Testamenti, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <pb n="20" facs="tcp:202039:12"/>
+               <item>733 Lister (Mart.) de Fontibus Medicatis Angliae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>734 Lukin's Chief Interest of Man, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>735 —Practise of Godliness, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1659</item>
+               <item>736 Lutheri (Mart.) Loci Communes, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1651</item>
+               <item>737 Lipsius (Justus) de Cruce, cum aliis similis Materiae, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1670</item>
+               <item>738 Lucanus (Ocellus) de Universi Natura, G. Lat. 8<seg rend="sup">o</seg> 1596</item>
+               <item>739 Lloyd's (Jo.) Paraphrase on the <hi>Canticles,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>740 Lachmund (Fred.) admirandorum Fossilium Historia 4<seg rend="sup">o</seg>
+                  <hi>Heid.</hi> 1669</item>
+               <item>741 Lycosthenis (Conr.) Similia, 8<seg rend="sup">o</seg> 1614</item>
+               <item>742 Leusden (Joan.) Compendium Biblicum, in 12<seg rend="sup">o</seg>
+                  <hi>Ultr.</hi> 1680</item>
+               <item>743 Longi Pastoralia cum Notis Pet. Moll. Gr. Lat. 4<seg rend="sup">o</seg>
+                  <hi>Franek.</hi> 1660</item>
+               <item>744 Labbei (Phil.) Bibliotheca Bibliothecarum, 8<seg rend="sup">o</seg>
+                  <hi>Rothom.</hi> 1678</item>
+               <item>745 Licetus (Fortun.) de Monstris, per Ger. Blasium editus, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>546 Luciani Dialogi Graeco-Latinè, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>747 —Pseudosophista Graec. Lat. Notis Jo. Graevii, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1668</item>
+               <item>748 Liturgia Ecclesiae Anglicanae Lat. 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>749 —Idem in Italian, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>750 Lucian in English, by Jasp. Maine, fol. <hi>Oxf.</hi> 1664</item>
+               <item>751 —Dialogi Gr. &amp; Lat. 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>752 Livii Historia, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+            </list>
+            <list>
+               <item>753 MAldonati Opuscula Theologica, fol. <hi>Par.</hi> 1677</item>
+               <item>754 Marchantii Hortus Pastorum, fol. <hi>Lugd.</hi> 1683</item>
+               <item>755 Moerbesii Summa Christiana, 2 Vol. fol. <hi>Par.</hi> 1683</item>
+               <item>756 Mayern de Arthritide, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>757 Martyrium Lamberti, 8<seg rend="sup">o</seg>
+                  <hi>Leod.</hi> 1679</item>
+               <item>758 Moore's (Sir Jonas) Works, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>759 Miltoni pro Populo Anglicano defensio, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1651</item>
+               <item>760 Massenii Antiquit. &amp; Annales Trevirenses, 2 Vol. fol. <hi>Leod.</hi> 1670</item>
+               <item>761 —Orthodoxus Concionator, 2 Vol. fol. <hi>Mogunt.</hi> 1678</item>
+               <item>762 Markham's Perfect Horseman, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>763 Musaeus, Moschus &amp; Bion Gr. Lat. per Whitford, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1659</item>
+               <item>764 Munnicks de Urinis, 12<seg rend="sup">o</seg>
+                  <hi>Traj.</hi> 1674</item>
+               <item>765 Meekren Observation. Medico-Chirurgicae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1682</item>
+               <item>766 Machiavel's Works, fol. <hi>Lond.</hi> 1680</item>
+               <item>767 Menochius de adipiscenda &amp; retinenda Possessione, fol. <hi>Col.</hi> 1679</item>
+               <item>768 Malvasiae Ephemerides Motuum Coelestium, fol. <hi>Mut.</hi> 1662</item>
+               <item>769 Marolois Opera Mathematica, cum fig. fol. <hi>Amst.</hi> 1662</item>
+               <item>770 Merret's Reply to H. Stubbs, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>771 Magnasius de Motu Cordis &amp; Cerebri, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1673</item>
+               <item>772 Meibomius de Proportionib. fol. <hi>Hafn.</hi> 1655</item>
+               <pb n="21" facs="tcp:202039:12"/>
+               <item>773 Martyris Opus Epistolarum, fol. <hi>Amst.</hi> 1670</item>
+               <item>774 Mackenzies Right of Monarchy, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>775 Marca Opuscula, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1681</item>
+               <item>776 Morini &amp; aliorum Epistolae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>777 Major de Nummis Graecè inscriptis, 4<seg rend="sup">o</seg>
+                  <hi>Kiliae</hi> 1685</item>
+               <item>778 Mori Opera Theologica, fol. <hi>Lond.</hi> 1675</item>
+               <item>779 —Opera omnia, 3 Vol. fol. <hi>ibid.</hi>
+               </item>
+               <item>779* Mirror of Martyrs, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>780 Monasticon Anglicanum, Vol. 1. cum fig. fol. <hi>Lond.</hi> 1683</item>
+               <item>781 —Idem in 3 Vol. cum figur. fol. <hi>Lond.</hi>
+               </item>
+               <item>782 Malpighii Opera omnia, fol. <hi>Lond.</hi> 1686</item>
+               <item>783 Missale Romanum ex Decreto Concilii Trident. fol. <hi>Lugd.</hi> 1685</item>
+               <item>784 —Idem in 4<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1683</item>
+               <item>785 —Idem in 8<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1682</item>
+               <item>786 Memoires de Henry le Grand par le Duc de Sully, 3 Vol. fol. <hi>Par.</hi>
+               </item>
+               <item>787 —le Mesme en Douze, 8 Vol. <hi>Par.</hi> 1663</item>
+               <item>787* —de Phil. Comines, per Godefroy, 3 tomes en 12<seg rend="sup">o</seg> 1682</item>
+               <item>788 —de Hollande en 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1678</item>
+               <item>789 —touchant la Religion en 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1681</item>
+               <item>790 Montacutii (Ric.) Originum Eccl. tomi prioris pars poster. <hi>Lond.</hi> 1640</item>
+               <item>791 Mayern's (Sir Theod.) Receipts in Cookery, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>792 —de Arthritide, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>793 Muleri (Nic.) Fabulae Frisicae Lunae-Solares, 4<seg rend="sup">o</seg> 1611</item>
+               <item>794 Manutii Epistolae, in 16<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1616</item>
+               <item>795 More (Dr. Henry) on the Revelation, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>796 —Enchiridion Ethicum, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1679</item>
+               <item>797 Miltoni (Joan.) Epistolae familiares, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>798 —Literae Parliamenti nomine scriptae, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>799 —Pro populo Anglicano adv. Salmasium Defensio, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1652</item>
+               <item>800 Meulen (Gerh. Van.) Veritas Religionis Reformatae 4<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1667</item>
+               <item>801 Mainwaring's Compleat Physician, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>802 Maimonides (Moses) de jure pauperis apud Judaeos, 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1679</item>
+               <item>803 Meibomius (Jo. Hen.) de Flagrorum usu in Re Venerea, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi>
+               </item>
+               <item>804 —(Marci) Antiquae Musicae Scriptores, 4<seg rend="sup">o</seg> G. L. <hi>Amst.</hi> 1652</item>
+               <item>805 Maresius (Sam.) de Episcoporum Origine, &amp;c. 8<seg rend="sup">o</seg>
+                  <hi>Groning.</hi> 1657</item>
+               <item>805* More's (Dr. Hen.) Divine Dialogues, 2d Vol. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>806 Maresii (Sam.) Quaestionum aliquot Theologic. decisio, 4<seg rend="sup">o</seg>
+                  <hi>Gron.</hi> 1659</item>
+               <item>807 —de Gratia &amp; Redemptione Universali 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1661</item>
+               <item>808 —de Usu &amp; Honore S. Ministerii in Eccl. Reformat. 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1659</item>
+               <item>809 May (Tho.) Supplementum Lucani, 12<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1646</item>
+               <item>810 Maximi Tyrii Dissertationes G. L. in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1677</item>
+               <pb n="22" facs="tcp:202039:13"/>
+               <item>811 Mountaigue's (Walt.) Essays, 2d part, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1654</item>
+               <item>812 Maccovii (Joan) Metaphysica, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1651</item>
+               <item>813 Marhofius (G.) de Metallorum transmutatione, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1673</item>
+               <item>814 Morini (Pet.) Opuscula &amp; Epistolae, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1675</item>
+               <item>815 Maurice's Vindication of the Primitive Church, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>816 Marchinus (Phil.) de Deo trino, fol. <hi>Flor.</hi> 1635</item>
+               <item>817 Martialis (Val.) Epigrammata, cum Indice M. Raderi, 12<seg rend="sup">o</seg>
+                  <hi>Dant.</hi> 1648</item>
+               <item>818 —Idem cum Notis Farnabii, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1676</item>
+               <item>819 Mercurialis (Hieron.) de arte Gymnastica, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>820 Mayow (Joan.) Tractatus quinque Medico-physici, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1674</item>
+               <item>821 —de Respiratione &amp; Architide, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1669</item>
+               <item>822 Magneni (Jo. Chrysost.) Democritus reviviscens, in 12<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1658</item>
+               <item>823 —de Tabaco, 12<seg rend="sup">o</seg> 1658</item>
+               <item>824 Muthii (Ger.) Artificiosum Astro-Geographic. Mobile 4<seg rend="sup">o</seg>
+                  <hi>Norib.</hi> 1673</item>
+               <item>825 Mayr (Geor.) Institutiones Linguae Hebraicae, 8<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1649</item>
+               <item>826 Markham's Perfect Horseman, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>827 Meriton's Guide for Constables, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>828 Minucius Felix, <hi>&amp;c.</hi> cum Notis, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1678</item>
+               <item>829 Monarchia Britannica Panegyricè celebrata, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1681</item>
+               <item>830 Marcus Antoninus Gr. Lat. 12<seg rend="sup">o</seg>
+                  <hi>Oxon</hi> 1680</item>
+               <item>831 Maximi Tyrii Dissertat. Gr. Lat. 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1677</item>
+               <item>832 Maurice's Vindicat. of Episcop. against <hi>Baxter,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+            </list>
+            <list>
+               <item>833 NAlson's Collections, 2 Vol. fol. <hi>Lond.</hi> 1682</item>
+               <item>834 Norwood's Seaman's Practice, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>835 Nierembergius de Origine S. Scripturae, fol. <hi>Lugd.</hi> 1641</item>
+               <item>836 Neustria Pia de Abbatiis &amp; Priorat. Normanniae, fol. <hi>Roth.</hi> 1663</item>
+               <item>837 North's Observations and Advices Oeconomical, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1669</item>
+               <item>838 Nicholson on the Church-Catechisme, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>839 Noris (Hen.) Historia Pelagiana, fol. <hi>Amst.</hi> 1677</item>
+               <item>840 Neri (Ant.) Ars Vitraria cum Notis C. Merret, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1669</item>
+               <item>841 Nazianzen his Orat. against Julian the Apostate 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>842 Natalis Comitis Mythologia, 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1651</item>
+               <item>843 Nierembergius his Meditations of Life and Death, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1682</item>
+               <item>844 Neuhusii (Rein.) Poemata omnia in 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+               <item>845 —Suada Alcmarina, in 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1656</item>
+               <item>846 —Epistolarum Centuriae quatuor 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1678</item>
+               <item>847 No Protestant, but the Dissenters Plot, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>848 Nau (Mich.) Ecclesiae Romanae Graecae{que} Effigies, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1680</item>
+               <item>849 New Politick Light, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>850 Needham (Gualt.) de formato Foetu, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1667</item>
+               <pb n="23" facs="tcp:202039:13"/>
+               <item>851 North (Lord) his Observations Oeconomical, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1669</item>
+            </list>
+            <list>
+               <item>852 OLivae Comment. in selecta Scripturae Loca, 5 Tom. fol. <hi>Lugd.</hi> 1677</item>
+               <item>853 Ovidii Metamorphos. Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>854 Olivier Dissertationes Academicae, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1674</item>
+               <item>855 Opuscula Mytholog. Ethica &amp; Physica Gr. Lat. per T. Gale, 8<seg rend="sup">o</seg>
+                  <hi>ib.</hi> 1671</item>
+               <item>856 Officina Brevium, fol. <hi>Lond.</hi> 1679</item>
+               <item>857 Ortegae Theolog. Controversiar. Dogmaticar. 2 Tom. <hi>Lugd.</hi> 1680</item>
+               <item>858 Officium B. M. Virginis, 12<seg rend="sup">o</seg>
+                  <hi>Antv.</hi> 1676</item>
+               <item>859 —Idem in 24<seg rend="sup">o</seg> 1686</item>
+               <item>860 —Idem in 32<seg rend="sup">o</seg> 1677</item>
+               <item>861 Oeuvres de la Franc. Moth. le Vayer de la grand pap. 2 vol. fol. <hi>Par.</hi>
+               </item>
+               <item>862 — de Tacite D'Ablancourt, 4<seg rend="sup">o</seg>
+                  <hi>Roven.</hi> 1665</item>
+               <item>863 —en 3 tomes en 12<seg rend="sup">o</seg>, par D' Ablancourt <hi>Par.</hi> 1677</item>
+               <item>864 Optique devisee en 3 parties. par P. Ango en 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1682</item>
+               <item>865 Origini della lingua Castellana dal Egid Menagio, fol. <hi>Gen.</hi> 1685</item>
+               <item>866 Opere di Nicol. Machiavelli, in 4<seg rend="sup">o</seg> 1650</item>
+               <item>867 —del Padre Paolo 5 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Ven.</hi> 1677</item>
+               <item>868 Oughtredi (Guil.) Opuscula Mathematica, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1677</item>
+               <item>869 Ovidii (Publii) Tristia, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>870 Oldham's Poems, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>871 Oweni Epigrammata, in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1669</item>
+               <item>872 Organi Philosophiae Rudimenta, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1677</item>
+               <item>873 Officia Sanctorum Ordinis Eremitarum S. Augustini, 8<seg rend="sup">o</seg>
+                  <hi>Ven.</hi> 1671</item>
+               <item>874 Observationes Anatomicae Selectiores, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1667</item>
+            </list>
+            <list>
+               <item>875 PArisiensis Opera, 2 Vol. fol. <hi>Aurel.</hi> 1678</item>
+               <item>876 Penafiel Theolog. Scholast. Moralis, 2 Tom. fol. <hi>Lugd.</hi> 1678</item>
+               <item>877 Pighii Annales Romanor. 3 Tom. fol. <hi>Ant.</hi> 1615</item>
+               <item>878 Psalterium Graecè &amp; Latinè, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1678</item>
+               <item>879 Paschalius de Coronis, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1671</item>
+               <item>880 Pell's Tables, fol. <hi>Lond.</hi> 1672</item>
+               <item>881 —Introduct. to Algebra, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>882 Poiret de Deo, Anima &amp; Malo, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>883 Palladii Vita Chrysostomi Gr. Lat. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1680</item>
+               <item>884 Parker de Deo &amp; Providentia Divina, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>885 —Ecclesiastical Polity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>886 —Defence of the Ecclesiastical Polity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>887 —Religion and Loyalty, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>888 Persii Satyrae Notis Bond, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1659</item>
+               <item>889 Plinii Panegyric. Notis Tan. Fabri, 12<seg rend="sup">o</seg>
+                  <hi>Salm.</hi> 1671</item>
+               <pb n="24" facs="tcp:202039:14"/>
+               <item>890 Panvinius de Ludis Circensibus, &amp;c. fol. <hi>Pat.</hi> 1681</item>
+               <item>891 Palatii Monarchia Occidentalis, fol. <hi>Venet.</hi> 1671</item>
+               <item>892 Pufendorf de Jure Naturae &amp; Gentium, 4<seg rend="sup">o</seg>
+                  <hi>Lond. Scan.</hi> 1672</item>
+               <item>893 —Dissertationes Academicae, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1675</item>
+               <item>894 —de Officio Hominis &amp; Civis, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1673</item>
+               <item>895 Plain Man's Way of Worship, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>896 Perswasive to the frequent receiving the Lord's Supper, 12<seg rend="sup">o</seg> 1684</item>
+               <item>897 Philip's (Cath.) her Poems, fol. <hi>Lond.</hi> 1678</item>
+               <item>898 Power's Experimental Philosophy, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1664</item>
+               <item>899 Pocock Histor. Dynastiarum Arab. &amp; Lat. 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1663</item>
+               <item>900 Procopius Gazaeus Gr. Lat. per J. Meursium, 4<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1620</item>
+               <item>901 Puller's Moderation of the Ch. of England, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>902 Peckii Opera Juridica, fol. <hi>Ant.</hi> 1666</item>
+               <item>903 Plain Dealing, an Answer to Humane Reason, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>904 Piety of Paris, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1666</item>
+               <item>905 Petty of Duplicate Proportion, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>906 Patin. de Numismate antiquo Augusti &amp; Platonis, 4<seg rend="sup">o</seg>
+                  <hi>Bas.</hi> 1675</item>
+               <item>907 Placaei Opuscula, 4<seg rend="sup">o</seg>
+                  <hi>Salm.</hi> 1622</item>
+               <item>908 —de Imputat. primi Peccati Adami <hi>ibid.</hi> 1661</item>
+               <item>909 —Disputationes, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>910 Petyt's Rights of the Commons of England, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>911 Perfect Politician, or Life of O. Cromwel, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>912 à S. Paulo Alphabetum Morale, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1686</item>
+               <item>913 Palmerii Exercitat. in optimos Autores Graecos, 4<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1658</item>
+               <item>914 Pharmacopoeia Bateana, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1688</item>
+               <item>915 —Collegii Regalis Londinens. fol. <hi>ibid.</hi> 1677</item>
+               <item>916 Procopii Caesariensis Histor. Gr. Lat. fol. <hi>E Typogr. Regia Par.</hi>
+               </item>
+               <item>917 Processionale Romanum, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1671</item>
+               <item>918 Philosophical Transact. by <hi>Oldenburgh,</hi> 10 Vol. compl. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>919 Provinciales ou Lettres de Montalte, 12<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1669</item>
+               <item>920 Poetique D' Aristote, 12, <hi>Par.</hi> 1671</item>
+               <item>921 Pharsaile de Lucain, par Mr. Brebeuf, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1682</item>
+               <item>922 Putanismo Romano, 12<seg rend="sup">o</seg> 1668</item>
+               <item>923 Pocock on Micah and Malachi, fol. <hi>Oxon.</hi> 1677</item>
+               <item>924 —on Malachi alone, fol. <hi>ibid.</hi>
+               </item>
+               <item>925 Persii (Auli) Satyrae Notis Jo. Bond. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi>
+               </item>
+               <item>926 Parei Chronologia Sacra, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1641</item>
+               <item>927 Portae (Jo. Bapt.) Magia Naturalis, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1664</item>
+               <item>928 Pell's (Jo.) Algebra, large Paper, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>929 —Idem, small Paper, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>930 —Tabulae quadratorum numerorum, fol. <hi>Lond.</hi>
+               </item>
+               <pb n="25" facs="tcp:202039:14"/>
+               <item>931 Platina (B.) de Vitis Pontificum, in 12<seg rend="sup">o</seg>
+               </item>
+               <item>932 Poole's English Parnassus, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>933 Pharmacopaea Hagiensis, 4<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1659</item>
+               <item>934 Pincieri Aenigmata, in 12<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1655</item>
+               <item>935 Psalterium Graece &amp; Latine, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1678</item>
+               <item>936 Petronii Arbitri Fragmentum, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1664</item>
+               <item>937 Principles made practical, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>938 Paaw (Petrus) de Corporis Humani Ossibus, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1633</item>
+               <item>939 Piscatoris in No. Test. Comment. in 3 Vol. fol. <hi>Herbornae Nassov.</hi> 1646</item>
+               <item>940 Poetae Graeci Minores, Graecè &amp; Latinè, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi>
+               </item>
+               <item>941 Pignorius (Laur.) de Servis cum Figuris, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>942 Parker's (Sam.) Case of the Ch. of England stated, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>943 Psalms in Metre, new Translation, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>944 Posselii (Joan.) Colloquia familiaria Graeco-Latinè, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>945 Paschasius (Jo.) de Summo &amp; Subalterno Deo, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1662</item>
+               <item>946 Polhil's Animadversions on Dr. Sherlock's Book, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>947 Ptolomaei (Cl.) Harmonica, cum Notis Joan. Wallis, G.L. 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1682</item>
+               <item>948 Pemble his Works, fol. <hi>Oxf.</hi> 1659</item>
+               <item>949 Pool's Nullity of the Romish Faith, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>950 Pavonii Ethica, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1668</item>
+               <item>951 Prideaux's Introduct. to History, 4<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1682</item>
+               <item>952 Pocock Histor. Dynastiarum, Arab. &amp; Lat. 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1663</item>
+               <item>953 Pink's Christian's Love to Christ, 12<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1659</item>
+               <item>954 Procli Sphaera, &amp;c. Gr. Lat. per Jo. Bainbridge, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1620</item>
+               <item>955 Peirce's Decade of Caveats, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>955 * —Pacificator. Theolog. Orthod. Corpusculum, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>956 Practice of Piety, 12<seg rend="sup">o</seg> 1680</item>
+            </list>
+            <list>
+               <item>957 QUaresmii Elucidatio Terrae sanctae, 2 Vol. fol. <hi>Ant.</hi> 1639</item>
+               <item>958 Quarles Boanerges and Barnabas, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>959 Querer par solo querer, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1671</item>
+               <item>960 Quarles (Franc.) Barnabas &amp; Boanerges, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1674</item>
+               <item>961 Queenlike Closet, in 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1675</item>
+            </list>
+            <list>
+               <item>962 REding Theologia Scholastica, 13 Tom. fol. 1687</item>
+               <item>963 Ravanelli Bibliotheca, 2 Tom. fol. <hi>Gen.</hi> 1660</item>
+               <item>964 Riverii Opera Medica, fol. <hi>Lugd.</hi> 1679</item>
+               <item>965 —Praxis Medica cum Theoria. fol. <hi>ibid.</hi>
+               </item>
+               <item>966 Radau Orator Extemporaneus, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1684</item>
+               <item>967 Reynold's Sermon, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>968 Rights of the Kingdom, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <pb n="26" facs="tcp:202039:15"/>
+               <item>969 <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uari Epistolarum Centuria, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>970 Re-uniting of Christianity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>971 Remembrancer of Excellent Men, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>972 Raii Historia Plantar. 2 Vol. fol. <hi>Lond.</hi> 1686</item>
+               <item>973 Regii Philosophia Naturalis, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1661</item>
+               <item>974 Reinesii Epistolae ad Daumium, 4<seg rend="sup">o</seg>
+                  <hi>Jen.</hi> 1670</item>
+               <item>975 Religious Cavaliers, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>976 Rhodigini Lectiones antiquae, fol. <hi>Franc.</hi> 1666</item>
+               <item>977 Rulandi Synonimia Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1646</item>
+               <item>978 Reimeri Arcana Politica, 12<seg rend="sup">o</seg>
+                  <hi>Martisb.</hi> 1678</item>
+               <item>979 Relation of the River <hi>Nile,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>980 Ross Mystagogus Poeticus, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>981 Ray's Travels, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>982 Renaldini Ars Analytica Mathematum. 2 Tom. fol. <hi>Florent.</hi> 1664</item>
+               <item>983 —de Resolut. &amp; Composit. Mathemat. fol. <hi>Patav.</hi> 1668</item>
+               <item>984 Riccioli Geograph. &amp; Hydrograph. Reform. fol. <hi>Venet.</hi> 1672</item>
+               <item>985 Rituale Romanum, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1679</item>
+               <item>986 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1669</item>
+               <item>987 Recherches Curieuses D' Antiquites, par Mr. Spon <hi>Lyon.</hi> 1683</item>
+               <item>988 Relation des Voyages du Chev. Chardin. avec fig. fol. <hi>Lond.</hi>
+               </item>
+               <item>989 Ragionamenti di Pietro Aretino, 8<seg rend="sup">o</seg> 1660</item>
+               <item>990 Ragguagli di Parnasso dal Traj. Boccalini, 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1669</item>
+               <item>991 Rhodii (Joan.) de Acia Dissertatio, 4<seg rend="sup">o</seg>
+                  <hi>Hafniae</hi> 1672</item>
+               <item>992 Rhetores selecti Groece &amp; Latine per Tho. Gale, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1676</item>
+               <item>993 Raii (Jo.) Methodus Plantarum nova, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>994 Reuseneri (Conr.) Symbola Heroica, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1650</item>
+               <item>995 Redus (Franc.) de Insectis, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>996 Rights of the Kingdom, in 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>997 Rossaei (Alex.) Virgilius triumphans, in 12<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1661</item>
+               <item>998 —Colloquia Plautina, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1650</item>
+               <item>999 Ruari (Mart.) Epistolae Selectae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>1000 Relation of the River <hi>Nile,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1001 Redekeri (Conr.) Descriptio Fontis Bifeldiani, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1668</item>
+               <item>1002 Riccardii (Nic.) Historiae Concilii Tridentini Epit. 12<seg rend="sup">o</seg>
+               </item>
+               <item>1003 Rapinus of Gardens, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>1004 Relfendso (Jo.) de Principum Germanorum potestate in 12<seg rend="sup">o</seg> 1669</item>
+               <item>1005 Roet (Is.) Aphorismi de peste, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1666</item>
+               <item>1006 Res Gestae in Scotia a Jac. Montisrosar. Marchione, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1648</item>
+               <item>1007 Roll's London's Resurrection, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>1008 Radau (Mich.) Orator Extemporaneus, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1673</item>
+               <item>1009 Roemer (Jo. Franc.) Institutiones Linguoe Sanctae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1649</item>
+               <pb n="27" facs="tcp:202039:15"/>
+               <item>1010 Respublica Constantinopolitana, per P. Gyllium, 24<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1632</item>
+               <item>1011 —Muscoviae, 24<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1630</item>
+               <item>1012 —Hebraeorum, per Pet. Cunaeum, 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>1013 —Hebraeorum, per Car. Sigonium, 24<seg rend="sup">o</seg>
+                  <hi>Mediol.</hi> 1678</item>
+               <item>1014 —Namurcensis, Hannoniae, <hi>&amp;c.</hi> 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1634</item>
+               <item>1015 Jo. Werdenhaghen Introduct. ad omnes Respub. 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1632</item>
+               <item>1016 Ridley's View of the Civil and Ecclesiast. Law, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1675</item>
+               <item>1017 Robinsoni Annales Mundi, fol. <hi>Lond.</hi> 1677</item>
+            </list>
+            <list>
+               <item>1018 SIbbaldi Scotia illustrata, fol. <hi>Edin.</hi> 1674</item>
+               <item>1019 Sylvii Comment. in Tho. Aquinat. 4 Vol. fol. <hi>Ant.</hi> 1678</item>
+               <item>1020 Senecae Opera Notis Lipsii, fol. <hi>Ant.</hi> 1652</item>
+               <item>1021 Sherlock's Defence of Stillingfleet, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1681</item>
+               <item>1022 —of Religious Assemblies, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1681</item>
+               <item>1023 Scriveneri Apologia pro Patrib. adv. Dallaeum, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>1024 Schefferus de Militia Navali Veterum, 4<seg rend="sup">o</seg>
+                  <hi>Ubsal.</hi> 1654</item>
+               <item>1025 Smith's Great Assize, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1688</item>
+               <item>1026 —David's Repentance, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>1027 Sophoclis Tragoediae cum Scholiis Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1665</item>
+               <item>1028 Straccha de Mercatura, <hi>&amp;c.</hi> fol. <hi>Amst.</hi> 1669</item>
+               <item>1029 Stengelii Mundus Theoreticus divinor. Judicior. fol. <hi>Col. Agr.</hi> 1682</item>
+               <item>1030 Senecae Tragoed. Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+               <item>1031 Suetonius per Boxhornium, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1645</item>
+               <item>1032 Strada de Bello Belgico, 2 Vol. 24<seg rend="sup">o</seg>
+               </item>
+               <item>1033 Story of Jetzer, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1689</item>
+               <item>1034 Spanhemii Historia Jobi, 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1670</item>
+               <item>1035 —Geneva restituta, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1672</item>
+               <item>1036 Smetii Prosodia, 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1664</item>
+               <item>1037 —Idem, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1674</item>
+               <item>1038 Scriptural Catechism, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1686</item>
+               <item>1039 Seller's Remarks on the State of the Ch. in the 1st Cent. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>1040 Sanctii Comm. in Libr. Regum &amp; Paralipomen. fol. <hi>Lugd.</hi> 1623</item>
+               <item>1041 —in XII. Prophet. Minores, fol. <hi>ibid.</hi> 1621</item>
+               <item>1042 Stillingfleet's Letter to a Deist, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>1043 Saywell's Evangel. and Catholick Unity, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>1044 Schrevelii Lexicon Graeco-Lat. 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1682</item>
+               <item>1045 San-crucii Dialectica ad mentem Scoti, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1046 Sherburn's Translat. of, and Annotat. on Manilius, fol. <hi>Lond.</hi> 1675</item>
+               <item>1047 Savanorolae Vita, 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1674</item>
+               <item>1048 Seynensis Annus Ecclesiast. Concionat. 4 Vol. fol. <hi>Col.</hi> 1677</item>
+               <item>1049 Saxon. Grammatici Historia Danica, fol. <hi>Sorae</hi> 1644</item>
+               <pb n="28" facs="tcp:202039:16"/>
+               <item>1050 Seller on the Sacrament, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1686</item>
+               <item>1051 Sprat's Observ. on Sorbiere's Voyage into <hi>England,</hi> 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1668</item>
+               <item>1052 Sandii Nucleus Histor. Ecclesiast. 4<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1676</item>
+               <item>1053 —de Origine Animae, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <item>1054 — Interpretation. Paradoxae, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>1055 —Nucleus Histor. Ecclesiast. 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1669</item>
+               <item>1056 Synodicon sive Pandectae Canon. Beveregii Gr. Lat. 2 vol. <hi>Oxon.</hi>
+               </item>
+               <item>1057 Selden's Judicature in Parliament. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>1058 Speed's Epitome, 8<seg rend="sup">o</seg> 1676</item>
+               <item>1059 Stubneri Introduct. ad Histor. Ecclesiast. N. Testam. fol. <hi>Noremb.</hi> 1684</item>
+               <item>1060 Scotus Erigena de Divisione Naturae, fol. <hi>Oxon.</hi> 1681</item>
+               <item>1061 Salmasii Responsio ad Miltonum, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1660</item>
+               <item>1062 Stradae Prolusiones Academicae, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1661</item>
+               <item>1063 State of England, in two parts, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>1064 Sinclari Ars Gravitatis &amp; Levitatis, 4<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1669</item>
+               <item>1065 Simonis Opuscula Critica adv. Is. Vossium, 4<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1685</item>
+               <item>1066 Several ways of resolving Faith, 8<seg rend="sup">o</seg>
+                  <hi>York</hi> 1677</item>
+               <item>1067 Solitude preferr'd to publick Employment, 8<seg rend="sup">o</seg>
+                  <hi>Edingb.</hi> 1665</item>
+               <item>1068 Sleidan de 4 Imperiis cum Continuat. Strauchii, 12<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1686</item>
+               <item>1069 Socratis &amp; Sozomeni Histor. Ecclesiast. Gr. Lat. fol. <hi>Mogunt</hi> 1677</item>
+               <item>1070 Scapulae Lexicon Gr. Lat. fol. <hi>Lugd.</hi> 1663</item>
+               <item>1071 Senecae Tragaediae cum Notis Variorum <hi>Amst.</hi> 1682</item>
+               <item>1072 Saintete &amp; Devoires de la Vie Monastique, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1682</item>
+               <item>1073 Sylvii (Franc. le Boe) Opera Medica, 4<seg rend="sup">o</seg>
+                  <hi>Amstel.</hi> 1680</item>
+               <item>1074 Smetii (Hen.) Prosodia, 8<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1664</item>
+               <item>1075 Spurstow (Dr. Will.) his Meditations, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>1076 Strauchii (Aegid.) Astrognosa, in 12<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1665</item>
+               <item>1077 Sperberi (Jul. Jo.) Isagoge in Veram Dei cognitionem, 8<seg rend="sup">o</seg>
+                  <hi>Hamb.</hi> 1674</item>
+               <item>1078 Senecae (L. An.) Tragoediae, in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>1079 Skinner (Tho.) Motus compositi (charta maj.) 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1676</item>
+               <item>1080 —Idem (charta min.) 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>1081 Senault's Christian Man, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1650</item>
+               <item>1082 Senecae (L. An.) Tragoediae, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1679</item>
+               <item>1083 —Idem cum Notis Farnabii, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi>
+               </item>
+               <item>1084 —Iem cum Notis Farnabii, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1085 Scriptural Catechism, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1686</item>
+               <item>1086 Savilii (Hen.) Oratio coram Regina Elizabetha <hi>Oxon.</hi> 1658</item>
+               <item>1087 Salustius (Crispus) cum Fragmentis, in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1680</item>
+               <item>1088 Sandii (Christop.) Nucleus Historiae Ecclesiasticae, 8<seg rend="sup">o</seg> 1669</item>
+               <item>1089 —Interpretationes Paradoxae 4 Evangeliorum, 8<seg rend="sup">o</seg> 1670</item>
+               <item>1090 Selden (John) his History of Tithes, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1618</item>
+               <pb n="29" facs="tcp:202039:16"/>
+               <item>1091 Stradling Epigrammata, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1607</item>
+               <item>1092 Stratii (Ant.) Selecta Epigrammata, in 16<seg rend="sup">o</seg>
+                  <hi>Monast.</hi> 1640</item>
+               <item>1093 Swalve (Bernh.) Alcali &amp; Acidum, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1670</item>
+               <item>1094 —Pancreas Pancrene, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1668</item>
+               <item>1095 Swinnock's last Sentence to Sinners, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1096 Sall (Andreae) Votum pro pace Christiana 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1678</item>
+               <item>1097 —Ethica, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1680</item>
+               <item>1098 Scoockius (Mart.) de pace perpetua, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1650</item>
+               <item>1099 Seidelius (Brun.) de morbis incurabilibus 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1662</item>
+               <item>1100 Sydenham (Tho.) Methodus curandi Febres, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1666</item>
+               <item>1101 Scriveneri (Matth.) Apologia pro Patribus adv. Dallaeum 1672</item>
+               <item>1102 Smith (John) of Old Age, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1666</item>
+               <item>1103 Salustii (Crispi) Historia, in 12<seg rend="sup">o</seg>
+                  <hi>Cant.</hi> 1665</item>
+               <item>1104 —Idem cum Notis Theod. Graswinkelii, in 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1642</item>
+               <item>1105 Sydenham (Tho.) Observationes Medicae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>1106 —Dissertatio Epistolaris ad D. Cole, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>1107 Savanorolae Vita, per Jacob. Quetif. in 2 Vol. in 12 <hi>Par.</hi> 1674</item>
+               <item>1108 Stuart's (Dr. Rich.) 2 Sermons, with <hi>Harsnet,</hi> in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1658</item>
+               <item>1109 Sophoclis Tragaediae G. L. cum Scholiis, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi>
+               </item>
+               <item>1110 Severini (M. Aurel.) Synopsis Chirurgiae, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1664</item>
+               <item>1111 Sturmii (Joan. Chrysost.) Universalia Euclidaea, 8<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1661</item>
+               <item>1112 Speculum Juridico-Historico-Politicum, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>1113 Sancrusii (Joan.) Dialectica, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1114 Senguerdii (Wolfg.) Collegium Physicum, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1652</item>
+               <item>1114 * Saywel's Defence of the Church of England, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>1115 Scotani (Christ.) Continuatio Hist. Sulpicii Severi, 12<seg rend="sup">o</seg>
+                  <hi>Franek.</hi> 1656</item>
+               <item>1116 Smith (Tho.) de Graecae Ecclesiae hodierno statu, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1117 Sculthesii (Eber.) Synopsis Geographica, 12<seg rend="sup">o</seg>
+                  <hi>Tubingae</hi> 1654</item>
+               <item>1118 Schuleri (Joan.) Exercitationes ad Principia Philos. Cart. 8<seg rend="sup">o</seg> 1680</item>
+               <item>1119 —Examen Philosophiae Cartesianae, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1685</item>
+               <item>1120 Salmasii (Claud.) Defensio Regia pro Carolo primo, 12<seg rend="sup">o</seg> 1649</item>
+               <item>1121 Shaw's No Reformation of the Establish'd Reformat. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>1122 Satyrae Elegantiores praestantium Virorum in 2 Vol. 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1655</item>
+               <item>1123 Schulteti (Joan.) Armamentarium Chirurgicum, 8<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1657</item>
+               <item>1124 Sylvii (Lamb.) Florus Anglicus, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1652</item>
+               <item>1125 Snellii (Willeb.) Doctrinae Triangulorum, 8<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1627</item>
+               <item>1126 Sandii (Christop.) Notae in Vossium de Scriptor. Lat. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1677</item>
+               <item>1127 Smith of the Manners, Relig. and Governm. of the <hi>Turks Lond.</hi> 1678</item>
+               <item>1128 Sharrock's History of Vegetables, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1672</item>
+               <item>1129 —Sermons, 4<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1673</item>
+               <item>1130 Synopsis of Lilly's Grammar, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1675</item>
+               <pb n="30" facs="tcp:202039:17"/>
+               <item>1131 —Rer. quae ad Oratoris Institution. faciunt, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>1132 Smith's Account of the Greek Church, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>1133 —de Moribus Turcarum, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1674</item>
+               <item>1134 Stoke's Devotions, 12<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1668</item>
+               <item>1135 Sallii Ethica, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1680</item>
+               <item>1136 Smith's David's Blessed Man, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+               <item>1137 Senecae Tragoed. Notis Farnabii, 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1678</item>
+            </list>
+            <list>
+               <item>1138 TIrini Comment. in Vet. &amp; Nov. Testam. 2 Vol. fol. <hi>Ant.</hi> 1668</item>
+               <item>1139 Tenae Comment. in Epistol. ad Hebraeos, fol. <hi>Lond.</hi> 1661</item>
+               <item>1140 Theodoreti Auctuarium sive Operum Tom. 5. Gr. Lat. fol. <hi>Par.</hi> 1684</item>
+               <item>1141 Twisden's Vindication of the Ch. of England, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1142 Tennison of Idolatry, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>1143 Terentii Comoed. Notis Farnabii, 12 <hi>Amst.</hi> 1669</item>
+               <item>1144 Tertulliani Opera Notis Rigaltii, fol. <hi>Par.</hi> 1675</item>
+               <item>1145 Theophylacti Comment. in 4 Evangel. Gr. Lat. fol. <hi>Par.</hi> 1635</item>
+               <item>1146 Testamentum Novum Lat. per Bezam, 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1679</item>
+               <item>1147 —Idem, Graecè, 12 <hi>ibid.</hi> 1675</item>
+               <item>1148 —Idem, Graece, per Curcellaeum, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1675</item>
+               <item>1149 Tractatus Theologico-Politicus, <hi>&amp;c.</hi> 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1673</item>
+               <item>1150 Theophrasti Characteres Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Lips.</hi> 1679</item>
+               <item>1151 Towerson of the Sacraments in general, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1686</item>
+               <item>1152 —Of the Sacrament of Baptism, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1687</item>
+               <item>1153 —Explicat. of the Apostle's Creed, fol. <hi>ibid.</hi> 1685</item>
+               <item>1154 —Of the Decalogue, fol. <hi>ibid.</hi> 1685</item>
+               <item>1155 —Of the Lord's Prayer, fol. <hi>ibid.</hi> 1685</item>
+               <item>1156 Taciti Opera Notis Lipsii, fol. <hi>Ant.</hi> 1668</item>
+               <item>1157 Tholosani Syntagma Juris Universi, fol. <hi>Franc.</hi> 1611</item>
+               <item>1158 Teisseri Catalog. Auctor. qui Catalog. Libror. scripser. 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1686</item>
+               <item>1159 Thruston de Respiratione, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>1160 Tacqueti Geometria, 8<seg rend="sup">o</seg>
+                  <hi>Ant.</hi> 1673</item>
+               <item>1161 Taylor's Course of Sermons, fol. <hi>Lond.</hi> 1673</item>
+               <item>1162 Theses Salmurienses, 4<seg rend="sup">o</seg>
+                  <hi>Salm.</hi> 1665</item>
+               <item>1163 Terentii Comoediae, fol. <hi>E Typogr. Regia Par.</hi>
+               </item>
+               <item>1164 Thorndike's Just Weights and Measures in Religion, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1680</item>
+               <item>1165 —de jure finiendi Controvers. Eccl. (charta Majori) fol. <hi>Lond.</hi> 1674</item>
+               <item>1166 Tavernier's Travels, 2 Vol. fol. <hi>Lond.</hi> 1684</item>
+               <item>1167 Terillus de Regula Morum &amp; Casib. Conscientiae, fol. <hi>Leod.</hi> 1678</item>
+               <item>1168 Tarsis &amp; Zelie, 4 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1669</item>
+               <item>1169 Tholosani (Pet.) Syntagma Juris utrius{que} fol. <hi>Francof.</hi> 1611</item>
+               <item>1170 Trapham of the State of Health in <hi>Jamaica,</hi> 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <pb n="31" facs="tcp:202039:17"/>
+               <item>1171 Theophrasti Characteres Graeco-Lat. in 24<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1653</item>
+               <item>1172 Tractatus Theologico-politicus: Philosophia Scrip. interp. 1673</item>
+               <item>1173 Testament. No. Vulgatae Editionis, in 24<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1650</item>
+               <item>1174 —Graecè, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>1175 —Graecè, cum Radicibus à Car. Hool, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>1176 —Latinè, in 12<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1675</item>
+               <item>1177 —Graecè, in 4<seg rend="sup">o</seg>
+                  <hi>Gen.</hi> 1620</item>
+               <item>1178 —Hebraicè, per Will. Robertson, in 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1661</item>
+               <item>1179 Tavernier's Relation of the Seraglio, fol. <hi>ibid.</hi> 1677</item>
+               <item>1180 — Relations curious and singular, fol. <hi>ibid.</hi> 1680</item>
+               <item>1181 —Relation of the Kingdom of Tunquin, fol. <hi>ibid.</hi> 1680</item>
+               <item>1182 Tachenii (Otton.) Hippocraticae Medicinae Clavis, 12<seg rend="sup">o</seg>
+                  <hi>Ven.</hi> 1669</item>
+               <item>1183 —Hippocrates Chimicus, 12<seg rend="sup">o</seg>
+                  <hi>Lugd. Bat.</hi> 1671</item>
+               <item>1184 Terentius (Publius) ab Ant. Mureto emendatus, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1185 —Idem, cum Notis Farnabii, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1651</item>
+               <item>1186 Twisden's Vindication of the Ch. of England, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1187 Thomasmus (Jac. Phil.) de Tesseris Hospitalitatis, in 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1670</item>
+               <item>1188 Tullii (Tho.) Enchiridion Didact. de Coena Dom. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1683</item>
+               <item>1199 Tryal of Whitebread, and 4 other Priests, fol. <hi>Lond.</hi> 1679</item>
+               <item>1190 Twisse (Guil.) de Scientia Media, fol. <hi>Oxon.</hi> 1677</item>
+               <item>1191 Textoris (Jo. Ravis.) Dialogi &amp; Epigrammata, 12<seg rend="sup">o</seg>
+                  <hi>Roterod.</hi> 1651</item>
+               <item>1192 —Epistolae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1193 Tables to the English Bible, fol. <hi>Oxon.</hi> 1683</item>
+               <item>1194 Tertullianus (Sept. Flor.) de Pallio, cum Not. Cl. Salm. 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1656</item>
+               <item>1195 Theatri Oxoniensis Encaenia, fol. <hi>Oxon.</hi> 1677</item>
+               <item>1196 Theonis Sophistae Progymnasmata Graec. Lat. 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1626</item>
+               <item>1197 Thorndyke de ratione finiendi Controvers Ecclesiae, fol. <hi>Lond.</hi> 1670</item>
+               <item>1198 Tullii Justificatio Paulina, 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1674</item>
+               <item>1209 Testament. Novum Latinè, per Castalion, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+            </list>
+            <list>
+               <item>1200 VIncentius de Quadratura Circuli, fol. <hi>Ant.</hi> 1647</item>
+               <item>1201 Verney de Organo Auditus, 4<seg rend="sup">o</seg>
+                  <hi>Norimb.</hi> 1684</item>
+               <item>1202 Vieussens de remotis &amp; proximis Mixti Principiis, 4<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1688</item>
+               <item>1203 Voetii Disputation. Theologicae, 5 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Ultraj.</hi> 1648</item>
+               <item>1204 Vigiers Disc. of Arnaud's Book, viz. Perp. of the Faith, &amp;c. in 8<seg rend="sup">o</seg> 1670</item>
+               <item>1205 Varenii Descriptio Japoniae, 8<seg rend="sup">o</seg>
+                  <hi>Cantab.</hi> 1673</item>
+               <item>1206 Vitalis Lexicon Mathematicum, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1668</item>
+               <item>1007 Unexpected Choice, a Novel, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1670</item>
+               <item>1208 Vinnius in 4 Libr. Institution. 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1666</item>
+               <item>1209 Victor. Vitensis &amp; Vigilii Tapsensis Opera, 4<seg rend="sup">o</seg>
+                  <hi>Divion.</hi> 1665</item>
+               <item>1210 Virgili Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <pb n="32" facs="tcp:202039:18"/>
+               <item>1211 —Idem Notis Farnabii, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1665</item>
+               <item>1212 Valuat. of Ecclesiast. Preferments in England, 12<seg rend="sup">o</seg> 1680</item>
+               <item>1213 Vossii (Ger.) Etymologicon Linguae Latinae, fol. <hi>Lugd.</hi> 1664</item>
+               <item>1214 —de Logices &amp; Rhetorices Natura, 4<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1658</item>
+               <item>1215 —Theses Theologicae &amp; Historicae, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1658</item>
+               <item>1216 —Et Clarorum Virorum ad eum Epistolae, fol. <hi>Lond.</hi> 1690</item>
+               <item>1217 —(Isaac.) Observationes variae cum Append. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>1218 —de LXX Interpretib. 4<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1661</item>
+               <item>1219 —Observation. ad Pompon. Melam. 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1658</item>
+               <item>1220 —de Poematum Cantu. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1673</item>
+               <item>1221 Usserii Annales Vet. &amp; Novi Testam. fol. <hi>Par.</hi> 1673</item>
+               <item>1222 —Idem (charta majori) fol. <hi>ibid.</hi>
+               </item>
+               <item>1223 Vie de St. Ambroise, par God. Hermant, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1679</item>
+               <item>1224 —de St. Basile le grand &amp; Gregoire Nazianze, 2 Vol. 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1674</item>
+               <item>1225 —de Madam Heliot 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1683</item>
+               <item>1226 —de M. la Duchesse de Montmorency, 8<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1684</item>
+               <item>1227 —du Duc D' Espernon, 3 tomes, 12<seg rend="sup">o</seg>
+                  <hi>Roven.</hi> 1663</item>
+               <item>1228 —de St. Thomas Archevesque de Cantorbery 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1679</item>
+               <item>1229 —du P. Mataincour, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1666</item>
+               <item>1230 —de Cesar Borgia, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1671</item>
+               <item>1231 —du Duc de Guise, 12<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1681</item>
+               <item>1232 —des Hommes Illustres de Plutarque, 8 Vol. 12<seg rend="sup">o</seg> 1684</item>
+               <item>1233 Voyages de Cheval. Chardin en Perse avec fig. in fol. <hi>Lond.</hi>
+               </item>
+               <item>1234 —d' Italie Curieux &amp; Noveau, 12<seg rend="sup">o</seg>
+                  <hi>Lyon.</hi> 1681</item>
+               <item>1235 —de Siam par les Peres Jesuites, avec fig. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1682</item>
+               <item>1236 Vida y Hechos del Don Quixotte, 2 Vol. 8<seg rend="sup">o</seg>
+                  <hi>Amb.</hi> 1673</item>
+               <item>1237 —del Gusman de Alfarache, 8<seg rend="sup">o</seg>
+                  <hi>Ibid.</hi> 1681</item>
+               <item>1238 Vita di Sisto V. par Greg. Leti, 12<seg rend="sup">o</seg>
+                  <hi>Losan.</hi> 1669</item>
+               <item>1239 Vane's (Sir Hen.) Meditations, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>1240 Virgilii (Pub.) Opera cum Notis Tan. Fabri, 12<seg rend="sup">o</seg>
+                  <hi>Salm.</hi> 1675</item>
+               <item>1241 Vossii (Ger. Joh.) Linguae Graecae Rudimenta, 8<seg rend="sup">o</seg>
+                  <hi>Ultraj.</hi> 1672</item>
+               <item>1242 —Grammatica Latina, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1660</item>
+               <item>1243 —Grammatica Latina contracta, 8<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1673</item>
+               <item>1244 Vertuninus, Comoedia habita coram Rege Jacobo I. 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1617</item>
+               <item>1245 Vernulaei (Nic.) Rhetorum Collegii Porcensis Orat. 12<seg rend="sup">o</seg>
+                  <hi>Col.</hi> 1618</item>
+               <item>1246 —Rhetor; seu de arte dicendi, 12<seg rend="sup">o</seg>
+                  <hi>Noremb.</hi> 1658</item>
+               <item>1247 Usserii (Armachani) Gotteschalcus, 8<seg rend="sup">o</seg>
+                  <hi>Hannov.</hi> 1662</item>
+               <item>1248 Vivis (Ludov.) ad Sapientiam Introductio, 12<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1644</item>
+               <item>1249 Vossii (Isa.) Responsio ad Jo. de Bruyn, 4<seg rend="sup">o</seg>
+                  <hi>Hagae</hi> 1663</item>
+               <item>1250 —Appendix ad Librum de 70 Interpretibus, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1663</item>
+               <item>1251 Valentini (Basil.) currus triumphalis Notis Kerckrin. 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1671</item>
+               <pb n="33" facs="tcp:202039:18"/>
+               <item>1252 Vigani (Jo. Franc.) Medulla Chimiae, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>1253 Veil (Lud. de Compeigne de) de cultu Divino, 4<seg rend="sup">o</seg>
+                  <hi>Par.</hi> 1678</item>
+               <item>1254 Virgilii Opera Notis Minellii, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1682</item>
+            </list>
+            <list>
+               <item>1255 WIlson's History of K. <hi>James,</hi> fol. <hi>Lond.</hi> 1653</item>
+               <item>1256 Webster's Displaying of supposed Witchcraft, fol. <hi>Lond.</hi> 1677</item>
+               <item>1257 Willis Pharmaceut. Rational. Pars I. 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1674</item>
+               <item>1258 —Idem, Pars II. 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1675</item>
+               <item>1259 —Idem, Pars II. 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1675</item>
+               <item>1260 —Affectiones Hyster. &amp; Hypocondriacae, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>1261 —Pathologia Cerebri, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1678</item>
+               <item>1262 —de Anima Brutorum, 8<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1672</item>
+               <item>1263 Walker's English and Latin Proverbs, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1672</item>
+               <item>1264 —Idioms, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1685</item>
+               <item>1265 Wormii Musaeum Wormianum, fol. <hi>L. Bat.</hi> 1655</item>
+               <item>1266 Whole Art of the Stage, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>1267 Weidenfeld de Secretis Adeptorum, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>1268 Windet de Vita functorum statu, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>1269 Woolley's Queen-like Closet, 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>1270 Wit against Wisdom, or Erasmus Panegyr. on Folly, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>1271 Woodford's Paraphrase on the Psalms, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+               <item>1272 Wilkins Essay towards a Real Character, fol. <hi>Lond.</hi> 1668</item>
+               <item>1273 Wierts Colloquia Dei &amp; Animae, 4<seg rend="sup">o</seg> 1676</item>
+               <item>1274 Witty's Answer to Simpson, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1669</item>
+               <item>1275 Wiblin's Art of Measuring, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1669</item>
+               <item>1276 Willoughby's Ornithology, with Cuts, fol. <hi>Lond.</hi> 1678</item>
+               <item>1277 —Idem Latinè cum figur. fol. <hi>ibid.</hi> 1676</item>
+               <item>1278 —Idem Latinè cum figur. (charta majori) fol. <hi>ibid.</hi> 1676</item>
+               <item>1279 Webster's Display of Witchcraft, fol. <hi>Lond.</hi> 1677</item>
+               <item>1280 —Idem (of the larger paper), fol. <hi>ibid.</hi>
+               </item>
+               <item>1281 Watson (Ric.) de Fide Rationali, 12<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1662</item>
+               <item>1282 Wren (Matth.) adversus Catechesin Raccovianam, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1660</item>
+               <item>1283 Wilkins (Bp. John) Ecclesiastes, or Gift of Preach. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1284 Wits Academy, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>1285 Warneri (Levini) Proverbia Persica, Persicè &amp; Lat. 4<seg rend="sup">o</seg>
+                  <hi>L. Bat.</hi> 1644</item>
+               <item>1286 Watson's (Tho.) Divine Cordial, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1663</item>
+               <item>1287 —Art of Divine Contentment, 8<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1682</item>
+               <item>1288 White (Tho.) Institutiones peripateticae, 12<seg rend="sup">o</seg>
+                  <hi>Lugd.</hi> 1646</item>
+               <item>1289 Wotton (Sir Hen.) his Remains, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1685</item>
+               <item>1290 Walsh's Prospect of the State of <hi>Ireland ibid.</hi> 1682</item>
+               <item>1291 Weidenfeld (Joan. Seger.) de Secretis Adeptorum, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1684</item>
+               <pb n="34" facs="tcp:202039:19"/>
+               <item>1293 Whiting (Sam.) of the Last Judgment, 8<seg rend="sup">o</seg>
+                  <hi>Camb.</hi> 1664</item>
+               <item>1294 Walaei (Ant.) Compendium Ethicae Aristotelicae, 12<seg rend="sup">o</seg>
+                  <hi>Amst.</hi> 1660</item>
+               <item>1295 Walker on Rom. 13. V. 1. of Subjection to Powers, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1684</item>
+               <item>1296 Ward of Wit and Wisdom, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1673</item>
+               <item>1297 Wallis (Jo.) Mechanica, sive de Motu tres partes, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi> 1670</item>
+               <item>1298 —Partes Secunda &amp; Tertia, 4<seg rend="sup">o</seg>
+                  <hi>ibid.</hi>
+               </item>
+               <item>1299 —Elenchus Geometriae Hobbianae, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1655</item>
+               <item>1300 —De distantiis Cometarum investigandis, 4<seg rend="sup">o</seg>
+               </item>
+               <item>1301 Worthington (Dr. John) of Self-Resignation, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1675</item>
+               <item>1302 Walker (Obad.) on Galat. and all the following Epistles, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi>
+               </item>
+               <item>1303 Wallis Algebra, with the Cuts, fol. <hi>Lond.</hi> 1685</item>
+               <item>1304 Willis Pharmaceut. Rational. 2 Part, figur. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1678</item>
+               <item>1305 —de Anima Brutorum, 4<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1672</item>
+               <item>1306 Wilkinson's Charact. of a sincere Heart, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1674</item>
+               <item>1307 Wingat's Arithmetick, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1683</item>
+               <item>1308 Wren contra Catechism. Racovianum, 4<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1660</item>
+               <item>1309 Whitby's Answer to Sure-Footing, 8<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1666</item>
+               <item>1310 Wilkins Gift of Prayer and Preaching, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi>
+               </item>
+               <item>1311 Walker's Benefits of our Saviour, 4<seg rend="sup">o</seg>
+                  <hi>Oxf.</hi> 1680</item>
+            </list>
+            <list>
+               <item>1312 XEnophontis Cyropaedia Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1677</item>
+               <item>1313 —Idem, Graecè, 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi>
+               </item>
+            </list>
+            <list>
+               <item>1314 YOung's Currus Triumphalis, 8<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1679</item>
+               <item>1315 Young Man's Calling, in 12<seg rend="sup">o</seg>
+                  <hi>Lond.</hi> 1678</item>
+            </list>
+            <list>
+               <item>1316 ZImmermanni Florileg. Philolog. Historic. 4<seg rend="sup">o</seg>
+                  <hi>Misen.</hi> 1687</item>
+               <item>1317 Zacuti Lusitani Opera omnia, 2 Vol. fol. <hi>Lugd.</hi> 1667</item>
+               <item>1318 Zosimi Historia Gr. Lat. 8<seg rend="sup">o</seg>
+                  <hi>Oxon.</hi> 1679</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
